@@ -3,9 +3,7 @@
 	"uuid":"64350b50-a810-4901-b86b-7a5106bdef2c",
 	"title": "东南亚频道",
 
-	"channels": [
-
-		
+	"channels": [		
 		{
 			"name":"TVB 翡翠台",
 			"url": "http://pullhls6.inke.cn/live/1539863896190414/playlist.m3u8"
