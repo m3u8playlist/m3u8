@@ -1,1 +1,191 @@
 
+{
+	"uuid":"64350b50-a810-4901-b86b-7a5106bdef2c",
+	"title": "推荐频道-港澳台",
+
+	"channels": [
+
+		
+		{
+			"name":"TVB 翡翠台",
+			"url": "http://pullhls6.inke.cn/live/1539863896190414/playlist.m3u8"
+		},
+		
+		
+		{
+			"name":"TVB财经台",
+			"url": "http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/chunklist.m3u8"
+		},
+		{
+			"name": "香港31台",
+			"url": "http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8"
+		},
+		{
+			"name":"奇妙电视",
+			"url": "http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8"
+		},
+
+		{
+			"name": "TVB娱乐新闻台",
+			"url": "http://token.tvb.com/stream/live/enews/hls/mobilehd_enews.smil"
+		},
+		{
+			"name":"凤凰卫视中文台",
+			"url": "http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8"
+		},
+		{
+			"name":"香港卫视",
+			"url": "http://61.58.60.230:9000/live/255.m3u8"
+		},
+		{
+			"name":"澳门卫视",
+			"url": "http://61.58.60.230:9000/live/256.m3u8"
+		},
+				{
+			"name":"澳广视TDM ",
+			"url": "http://103.233.191.138/tv/ch21.live/playlist.m3u8"
+		},
+						{
+			"name":"澳门资讯",
+			"url": "http://103.233.191.138/ch5/info_ch5.live/playlist.m3u8"
+		},
+						{
+			"name":"澳视体育",
+			"url": "http://103.233.191.138/ch4/sport_ch4.live/playlist.m3u8"
+		},
+						{
+			"name":"澳视高清",
+			"url": "http://103.233.191.135/ch6/hd_ch6.live/playerlist.m3u8"
+		},
+						{
+			"name":"澳视澳门",
+			"url": "http://61.244.22.4/ch1/ch1.live/playelist.m3u8"
+		},
+						
+		
+		{
+			"name":"靖天欢乐",
+			"url": "http://61.58.60.230:9000/live/201.m3u8"
+		},
+		{
+			"name":"靖天资讯",
+			"url": "http://61.58.60.230:9000/live/202.m3u8"
+		},
+		{
+			"name":"靖洋戏剧",
+			"url": "http://61.58.60.230:9000/live/203.m3u8"
+		},
+		{
+			"name":"靖天育乐",
+			"url": "http://61.58.60.230:9000/live/204.m3u8"
+		},
+		
+		{
+			"name":"靖天国际",
+			"url": "http://61.58.60.230:9000/live/205.m3u8"
+		},
+		{
+			"name":"靖洋卡通",
+			"url": "http://61.58.60.230:9000/live/206.m3u8"
+		},
+		{
+			"name":"靖天卡通",
+			"url": "http://61.58.60.230:9000/live/207.m3u8"
+		},
+		{
+			"name":"靖天日本",
+			"url": "http://61.58.60.230:9000/live/243.m3u8"
+		},
+		{
+			"name":"靖天映畫",
+			"url": "http://61.58.60.230:9000/live/244.m3u8"
+		},
+		{
+			"name":"cex",
+			"url": "http://61.58.60.230:9000/live/257.m3u8"
+		},
+		{
+			"name":"台湾2",
+			"url": "http://61.58.60.230:9000/live/2.m3u8"
+		},
+		{
+			"name":"台湾3",
+			"url": "http://61.58.60.230:9000/live/3.m3u8"
+		},
+	
+		{
+			"name":"台湾80",
+			"url": "http://61.58.60.230:9000/live/80.m3u8"
+		},
+
+		
+		
+		{
+			"name":"亞太第一衛視",
+			"url": "http://61.58.60.230:9000/live/254.m3u8"
+		},
+		
+
+		{
+			"name": "凤凰卫视资讯台",
+			"url": "http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8"
+		},
+    {
+			"name":"nhk",
+			"url": "http://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8"
+		},
+
+		{
+			"name": "Japan 24news",
+			"url": "https://n24-cdn-live.ntv.co.jp/ch01/High.m3u8"
+		},
+		
+		
+		{
+			"name": "韩国arirang",
+			"url": "http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8"
+		},
+		{
+			"name": "韩国MBC",
+			"url": "http://www.pickcom.co.kr:1935/sjp/live07/chunklist_w2107750490.m3u8"
+		},
+		{
+			"name": "韩国EBS2",
+			"url": "http://ebsonair.ebs.co.kr:1935/ebs2familypc/familypc1m/playlist.m3u8"
+		},
+		{
+			"name": "阿聯酋UAE SPORTS HD",
+			"url": "http://dmiftvll.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b2000000.m3u8"
+		}
+		
+		{
+			"name": "新加坡MUTV",
+			"url": "https://d1wgyhp9evqv7n.cloudfront.net/hls/mutvpcweb/prog_index.m3u8"
+		},
+		{
+			"name": "新加坡miao mi",
+			"url": "https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8"
+		},
+		{
+			"name": "新加坡Mediacorp Channel 8",
+			"url": "https://ftach8.akamaized.net/out/v1/073dd78a13e94503be38183e2d126d31/index_5.m3u8"
+		},
+		{
+			"name": "新加坡Mediacorp Channel U",
+			"url": "https://ftachu.akamaized.net/out/v1/71d762324c994b3481cf38f2c24b16bf/index_5.m3u8"
+		},
+		{
+			"name": "新加坡Mediacorp Channel 5",
+			"url": "https://ftach5.akamaized.net/out/v1/0b05c17bddbd459f874d7cd3b2df9464/index_5.m3u8"
+		},
+		{
+			"name": "新加坡Channel News Asia",
+			"url": "https://ftacnas.akamaized.net/out/v1/9ddbc4447c95436baf9bcf61377f7046/index_5.m3u8"
+		}
+		
+		
+		
+
+	]
+
+}
