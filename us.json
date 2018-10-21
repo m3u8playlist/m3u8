@@ -1,1 +1,129 @@
 
+{
+	"uuid":"64350b50-a810-4901-b86b-7a5106bdef2c",
+	"title": "欧美频道",
+
+	"channels": [
+	
+		{
+			"name":"加拿大国家电视台",
+			"url": "https://wowzaprodhd84-lh.akamaihd.net/i/4ae6355d_1@505999/index_2150400_av-p.m3u8"
+		},
+		
+		{
+			"name":"彭博澳洲",
+			"url": "https://bblive-liveprodapnortheast.hs.llnwd.net/oz1/Channel-OZTVqvs-AWS-tokyo-1/Source-OZTVqvs-1000-1_live.m3u8"
+		},
+		{
+			"name":"CBS News 1",
+			"url": "http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8"
+		},
+		{
+			"name":"CBS News 2",
+			"url": "https://www.cbsnews.com/common/video/dai_prod.m3u8"
+		},
+
+		{
+			"name": "ABC News",
+			"url": "https://abclive2-lh.akamaihd.net/i/abc_live11@423404/master.m3u8"
+		},
+		
+		{
+			"name":"Weather Channel",
+			"url": "https://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8"
+		},
+		{
+			"name":"msnbc",
+			"url": "http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/master.m3u8"
+		},
+		
+		{
+			"name":"Astro Arena HD",
+			"url": "http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8_05.m3u8"
+		},
+	
+		{
+			"name":"FTV",
+			"url": "http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8"
+		},
+	
+
+		{
+			"name": "WFC",
+			"url": "http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v2a1/index.m3u8"
+		},
+		{
+			"name": "英国天空新闻台",
+			"url": "http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8"
+		},
+		{
+			"name": "Bloomberg TV Europe",
+			"url": "http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8"
+		},
+		{
+			"name": "布鲁内尔音乐台",
+			"url": "http://37.48.83.34:80/radiobrunotv/radiobrunotv/playlist.m3u8"
+		},
+		{
+			"name": "意大利音乐台",
+			"url": "http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p.m3u8"
+		},
+		{
+			"name": "维珍音乐摇滚台",
+			"url": "http://37.48.83.34:80/radiobrunotv/radiobrunotv/playlist.m3u8"
+		},
+		{
+			"name": "半岛电视台",
+			"url": "http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8"
+		},
+		{
+			"name": "联合国频道",
+			"url": "https://bcliveunivsecure-lh.akamaihd.net/i/un150_1@575439/index_1328_av-p.m3u8"
+		},
+		{
+			"name": "ElevenSports 1",
+			"url": "http://61.58.60.230:9000/live/75.m3u8"
+		},
+		{
+			"name": "ElevenSports 2",
+			"url": "http://61.58.60.230:9000/live/102.m3u8"
+		},
+		{
+			"name": "土耳其TRT WORLD",
+			"url": "http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8"
+		},
+		{
+			"name": "sport",
+			"url": "https://str-1.mediabay.tv/SportUz/tracks-v1a1/playlist.m3u8"
+		},
+		{
+			"name": "BBC One需英国梯子,下同",
+			"url": "http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_one_hd.m3u8"
+},
+
+{
+			"name": "BBC Two HD",
+			"url": "http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_two_england.m3u8"
+},
+{
+			"name": "BBC Four HD",
+			"url": "http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_four.m3u8"
+},
+{
+			"name": "CBBC HD",
+			"url": "http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/cbbc.m3u8"
+},
+{
+			"name": "CBeebies HD",
+			"url": "http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/cbeebies.m3u8"
+},
+{
+			"name": "BBC News HD",
+			"url": "http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_news24.m3u8"
+}
+
+
+
+	]
+
+}
