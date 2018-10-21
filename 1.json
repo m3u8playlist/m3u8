@@ -1,0 +1,67 @@
+{
+	"uuid":"64350b50-a810-4901-b86b-7a5106bdef2c",
+	"title": "频道杂集1",
+
+	"channels": [
+		{
+			"name":"CETV1",
+			"url": "http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225790/3.m3u8"
+		},
+		{
+			"name":"全纪实",
+			"url": "http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225791/3.m3u8"
+		},
+		{
+			"name":"游戏风云",
+			"url": "http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225779/3.m3u8"
+		},
+		{
+			"name":"动漫秀场",
+			"url": "http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225778/3.m3u8"
+		},
+
+		{
+			"name":"MAX急速汽车",
+			"url": "http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225780/3.m3u8"
+		},
+
+		{
+			"name": "魅力音乐",
+			"url": "http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225783/3.m3u8"
+		},
+		{
+			"name":"上海电视剧",
+			"url": "http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225774/3.m3u8"
+		},
+		{
+			"name":"上海娱乐",
+			"url": "http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225773/3.m3u8"
+		},
+		{
+			"name":"上海五星体育",
+			"url": "http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225772/3.m3u8"
+		},
+
+		{
+			"name": "生活时尚",
+			"url": "http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225771/3.m3u8"
+		},
+		{
+			"name":"上海纪实",
+			"url": "http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225769/3.m3u8"
+		},
+		{
+			"name":"上海外语频道",
+			"url": "http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225768/3.m3u8"
+		},
+		{
+			"name":"上海新闻综合",
+			"url": "http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225767/3.m3u8"
+		}
+
+
+		
+
+	]
+
+}
