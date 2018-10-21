@@ -1,0 +1,68 @@
+{
+	"uuid":"64350b50-a810-4901-b86b-7a5106bdef2c",
+	"title": "cctv",
+
+	"channels": [
+		{
+			"name":"cctv1",
+			"url": "http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225922/index.m3u8"
+		},
+		{
+			"name":"cctv2",
+			"url": "http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225800/index.m3u8"
+		},
+		{
+			"name":"cctv3",
+			"url": "http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225801/index.m3u8"
+		},
+		{
+			"name":"cctv4",
+			"url": "http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225802/index.m3u8"
+		},
+
+		{
+			"name":"cctv5",
+			"url": "http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225803/index.m3u8"
+		},
+
+		{
+			"name": "cctv5+",
+			"url": "http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225821/index.m3u8"
+		},
+		{
+			"name":"cctv7",
+			"url": "http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225805/index.m3u8"
+		},
+		{
+			"name":"cctv8",
+			"url": "http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225806/index.m3u8"
+		},
+		{
+			"name":"cctv9",
+			"url": "http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225820/index.m3u8"
+		},
+
+		{
+			"name": "cctv10",
+			"url": "http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225814/index.m3u8"
+		},
+		{
+			"name":"cctv11",
+			"url": "http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225815/index.m3u8"
+		},
+		{
+			"name":"cctv12",
+			"url": "http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225816/index.m3u8"
+		},
+		{
+			"name":"cctv13",
+			"url": "http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225817/index.m3u8"
+		}
+
+
+		
+
+	]
+
+}
+
