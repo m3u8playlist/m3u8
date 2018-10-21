@@ -1,0 +1,98 @@
+{
+	"uuid":"64350b50-a810-4901-b86b-7a5106bdef2c",
+	"title": "地方卫视",
+
+	"channels": [
+	
+
+		{
+			"name": "江苏卫视",
+			"url": "http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225847/index.m3u8"
+		},
+		{
+			"name":"东方卫视",
+			"url": "http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225828/index.m3u8"
+		},
+
+	
+		{
+			"name": "深圳卫视",
+			"url": "http://111.48.34.181/wh7f454c46tw3285571630_1795824597/huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225760/1.m3u8"
+		},
+		{
+			"name": "山东卫视",
+			"url": "http://111.48.34.189/wh7f454c46tw1657096488_1577154245/huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225763/1.m3u8"
+		},	
+			{
+			"name": "湖北卫视",
+			"url": "http://111.48.34.190/wh7f454c46tw1792659401_417437401/huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225764/1.m3u8"
+		},
+		{
+			"name": "安徽卫视",
+			"url": "http://111.48.34.215/wh7f454c46tw3573346148_1105008892/huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225784/1.m3u8"
+		},	
+			{
+			"name": "东南卫视",
+			"url": "http://111.48.34.189/wh7f454c46tw2098591917_681687317/huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225785/1.m3u8"
+		},
+		{
+			"name": "江西卫视",
+			"url": "http://111.48.34.229/wh7f454c46tw3580705336_78505325/huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225787/1.m3u8"
+		},	
+			{
+			"name": "辽宁卫视",
+			"url": "http://111.48.34.236/wh7f454c46tw2821214145_1665677352/huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225818/1.m3u8"
+		},
+		{
+			"name": "重庆",
+			"url": "http://111.48.34.235/wh7f454c46tw3736921079_857146044/huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225845/1.m3u8"
+		},	
+					{
+			"name": "广西卫视",
+			"url": "http://111.48.34.190/wh7f454c46tw2316698224_2018070038/huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225846/1.m3u8"
+		},
+		{
+			"name": "旅游卫视",
+			"url": "http://stream1.hnntv.cn/lywsgq/sd/live.m3u8"
+		},	
+			{
+			"name": "河南卫视",
+			"url": "http://111.48.34.230/wh7f454c46tw3844002448_167504158/huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225847/1.m3u8"
+		},
+		{
+			"name": "厦门卫视",
+			"url": "http://111.48.34.225/wh7f454c46tw3502244232_1400086720/huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225859/1.m3u8"
+		},	
+				{
+			"name": "四川卫视",
+			"url": "http://111.48.34.227/wh7f454c46tw3606888860_790010620/huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225842/1.m3u8"
+		},	
+				{
+			"name": "陕西卫视",
+			"url": "http://111.48.34.177/wh7f454c46tw114341963_542687952/huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225852/1.m3u8"
+		},	
+				{
+			"name": "吉林卫视",
+			"url": "http://111.48.34.218/wh7f454c46tw1214265928_1625806944/huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225844/1.m3u8"
+		},	
+			{
+			"name": "云南卫视",
+			"url": "http://111.48.34.215/wh7f454c46tw4055587829_2118870459/huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225854/1.m3u8"
+		},	
+				{
+			"name": "宁夏",
+			"url": "http://111.48.34.232/wh7f454c46tw93721226_915778966/huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225857/1.m3u8"
+		},	
+				{
+			"name": "青海卫视",
+			"url": "http://111.48.34.219/wh7f454c46tw1813554320_432357400/huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225849/1.m3u8"
+		},	
+				{
+			"name": "新疆卫视",
+			"url": "http://111.48.34.185/wh7f454c46tw977297997_662110784/huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225853/1.m3u8"
+		}
+		
+
+	]
+
+}
