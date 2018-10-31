@@ -18,6 +18,14 @@
 			"url": "http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/chunklist.m3u8"
 		},
 		{
+			"name":"now tv",
+			"url": "http://live.italkdd.com/cds160/hls/channel003/channel003_2000.m3u8"
+		},
+		{
+			"name":"600 news",
+			"url": "http://live.italkdd.com/cds160/hls/channel023/channel023_2000.m3u8"
+		},
+		{
 			"name": "香港31台",
 			"url": "http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8"
 		},
