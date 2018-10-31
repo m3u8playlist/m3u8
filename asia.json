@@ -42,10 +42,7 @@
 			"name":"澳门卫视",
 			"url": "http://61.58.60.230:9000/live/256.m3u8"
 		},
-				{
-			"name":"澳广视TDM ",
-			"url": "http://103.233.191.138/tv/ch21.live/playlist.m3u8"
-		},
+				
 						{
 			"name":"澳门资讯",
 			"url": "http://103.233.191.138/ch5/info_ch5.live/playlist.m3u8"
@@ -118,7 +115,10 @@
 			"name":"台湾80",
 			"url": "http://61.58.60.230:9000/live/80.m3u8"
 		},
-
+{
+			"name":"台湾中天新闻",
+			"url": "http://60.199.188.61/HLS/WG_ETTV-N/01.m3u8"
+		},
 		
 		
 		{
