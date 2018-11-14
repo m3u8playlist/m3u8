@@ -22,22 +22,7 @@
 			"name":"TVB财经台",
 			"url": "http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/chunklist.m3u8"
 		},
-		{
-			"name":"无线新闻1080P",
-			"url": "http://al3-flv.live.huajiao.com/live/channel10890103.m3u8"
-		},
-		{
-			"name":"有线新闻1080P",
-			"url": "http://al3-flv.live.huajiao.com/live/channel10890201.m3u8"
-		},
-		{
-			"name":"J2 1080P",
-			"url": "http://al3-flv.live.huajiao.com/live/channel10890356.m3u8"
-		},
-		{
-			"name":"J2 1080P",
-			"url": "http://al3-flv.live.huajiao.com/live/channel10890316.m3u8"
-		},
+		
 		{
 			"name":"now tv",
 			"url": "http://live.italkdd.com/cds160/hls/channel003/channel003_2000.m3u8"
