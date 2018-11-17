@@ -46,54 +46,13 @@
 			"name": "辽宁卫视",
 			"url": "http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225818/3.m3u8"
 		},
-		{
-			"name": "重庆",
-			"url": "http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225845/3.m3u8"
-		},	
-					{
-			"name": "广西卫视",
-			"url": "http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225846/3.m3u8"
-		},
+		
+		
 		{
 			"name": "旅游卫视",
 			"url": "http://stream1.hnntv.cn/lywsgq/sd/live.m3u8"
-		},	
-			{
-			"name": "河南卫视",
-			"url": "http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225847/3.m3u8"
-		},
-		{
-			"name": "厦门卫视",
-			"url": "http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225859/3.m3u8"
-		},	
-				{
-			"name": "四川卫视",
-			"url": "http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225842/3.m3u8"
-		},	
-				{
-			"name": "陕西卫视",
-			"url": "http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225852/3.m3u8"
-		},	
-				{
-			"name": "吉林卫视",
-			"url": "http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225844/3.m3u8"
-		},	
-			{
-			"name": "云南卫视",
-			"url": "http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225854/3.m3u8"
-		},	
-				{
-			"name": "宁夏",
-			"url": "http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225857/3.m3u8"
-		},	
-				{
-			"name": "青海卫视",
-			"url": "http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225849/3.m3u8"
-		},	
-				{
-			"name": "新疆卫视",
-			"url": "http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225853/3.m3u8"
-		}
+		}	
+		
 		
 
 	]
