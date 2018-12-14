@@ -27,21 +27,33 @@
 			"name":"奇妙电视",
 			"url": "http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8"
 		},
+		{
+			"name":"耀才财经资讯",
+			"url": "http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/chunklist_w919410739.m3u8"
+		},
 
 		{
 			"name": "TVB娱乐新闻台",
 			"url": "http://token.tvb.com/stream/live/enews/hls/mobilehd_enews.smil"
 		},
 		
-
+			{
+			"name":"澳门资讯",
+			"url": "http://103.233.191.135/ch5/_definst_/info_ch5.live/chunklist_w1232616748.m3u8"
+		},
 				
 						{
 			"name":"澳门资讯",
 			"url": "http://103.233.191.138/ch5/info_ch5.live/playlist.m3u8"
 		},
+		
 						{
 			"name":"澳视体育",
 			"url": "http://103.233.191.138/ch4/sport_ch4.live/playlist.m3u8"
+		},
+		{
+			"name":"澳视体育",
+			"url": "http://103.233.191.135/ch4/_definst_/sport_ch4.live/chunklist_w1798618527.m3u8"
 		},
 						{
 			"name":"澳视高清",
