@@ -79,26 +79,13 @@
 			"name": "半岛电视台",
 			"url": "http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8"
 		},
-		{
-			"name": "联合国频道",
-			"url": "https://bcliveunivsecure-lh.akamaihd.net/i/un150_1@575439/index_1328_av-p.m3u8"
-		},
-		{
-			"name": "ElevenSports 1",
-			"url": "http://61.58.60.230:9000/live/75.m3u8"
-		},
-		{
-			"name": "ElevenSports 2",
-			"url": "http://61.58.60.230:9000/live/102.m3u8"
-		},
+		
+	
 		{
 			"name": "土耳其TRT WORLD",
 			"url": "http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8"
 		},
-		{
-			"name": "sport",
-			"url": "https://str-1.mediabay.tv/SportUz/tracks-v1a1/playlist.m3u8"
-		},
+		
 		{
 			"name": "BBC One需英国梯子,下同",
 			"url": "http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_one_hd.m3u8"
