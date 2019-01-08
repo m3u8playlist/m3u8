@@ -6,10 +6,13 @@
 	"channels": [
 	
 		{
-			"name":"加拿大国家电视台",
-			"url": "https://wowzaprodhd84-lh.akamaihd.net/i/4ae6355d_1@505999/index_2150400_av-p.m3u8"
+			"name":"BLOOMBERG HD",
+			"url": "https://bblive-liveproduseast.hs.llnwd.net/btv/desktop/us_live.m3u8"
 		},
-		
+		{
+			"name":"POP USA",
+			"url": "http://bcsecurelivehls-i.akamaihd.net/hls/live/505785/5367332899001/master_2500.m3u8"
+		},
 		{
 			"name":"彭博澳洲",
 			"url": "https://bblive-liveprodapnortheast.hs.llnwd.net/oz1/Channel-OZTVqvs-AWS-tokyo-1/Source-OZTVqvs-1000-1_live.m3u8"
