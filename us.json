@@ -79,7 +79,16 @@
 			"name": "半岛电视台",
 			"url": "http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8"
 		},
+		{
+			"name": "半岛电视台",
+			"url": "http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index4147.m3u8"
+		},
+		{
+			"name": "半岛电视台",
+			"url": "http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index1296.m3u8"
+		},
 		
+
 	
 		{
 			"name": "土耳其TRT WORLD",
