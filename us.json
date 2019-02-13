@@ -37,18 +37,12 @@
 			"name":"Weather Channel",
 			"url": "https://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8"
 		},
-		{
-			"name":"msnbc",
-			"url": "http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/master.m3u8"
-		},
+		
 		{
 			"name":"美国芝加哥WGN9频道HD",
 			"url": "http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8"
 		},
-		{
-			"name":"美国FLIXHD",
-			"url": "http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8"
-		},
+		
 		{
 			"name":"美国CGTN (Opt-1)",
 			"url": "http://live.cgtn.com/500/prog_index.m3u8"
