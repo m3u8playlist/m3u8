@@ -101,11 +101,216 @@
 		{
 			"name": "ABC English service",
 			"url": "http://abcradiolivehls-lh.akamaihd.net/i/raeng1@433109/master.m3u8"
+		},
+		
+               {
+			"name": "上海动感101",
+			"url": "http://rs-bj.ajmide.com/r_11/11.m3u8"
+		},
+		 {
+			"name": "第一财经",
+			"url": "http://rs-bj.ajmide.com/r_5/5.m3u8"
+		},
+		  {
+			"name": "上海人民广播电台",
+			"url": "http://rs-bj.ajmide.com/r_7/7.m3u8"
+		},
+		 {
+			"name": "东广新闻台",
+			"url": "http://rs-bj.ajmide.com/r_12/12.m3u8"
+		},
+		  {
+			"name": "上海交通台",
+			"url": "http://rs-bj.ajmide.com/r_1/1.m3u8"
+		},
+		 {
+			"name": "五星体育",
+			"url": "http://rs.ajmide.com/r_4/4.m3u8"
+		},
+		  {
+			"name": "浙江动听",
+			"url": "http://yf.m.l.cztv.com/channels/lantian/audio01/128k.m3u8"
+		},
+		 {
+			"name": "浙江交通之声",
+			"url": "http://yf.m.l.cztv.com/channels/lantian/audio04/128k.m3u8"
+		},
+		 {
+			"name": "杭州交通广播",
+			"url": "http://live.xmcdn.com/live/632/64.m3u8"
+		},
+		 {
+			"name": "杭州西湖之声",
+			"url": "http://live.xmcdn.com/live/635/64.m3u8"
+		},
+		 {
+			"name": "宁波交通广播",
+			"url": "http://live.xmcdn.com/live/649/64.m3u8"
+		},
+		 {
+			"name": "北京外语广播 ",
+			"url": "http://live.xmcdn.com/live/96/64.m3u8"
+		},
+		 {
+			"name": "重庆交通广播",
+			"url": "http://live.xmcdn.com/live/130/64.m3u8"
+		},
+		 {
+			"name": "福建交通广播",
+			"url": "http://live.xmcdn.com/live/790/64.m3u8"
+		},
+		 {
+			"name": "厦门音乐广播",
+			"url": "http://live.xmcdn.com/live/185/64.m3u8"
+		},
+		 {
+			"name": "广东音乐之声",
+			"url": "http://live.xmcdn.com/live/74/64.m3u8"
+		},
+		 {
+			"name": "广东羊城交通广播 ",
+			"url": "http://live.xmcdn.com/live/248/64.m3u8"
+		},
+		 {
+			"name": "广州汽车音乐电台",
+			"url": "http://live.xmcdn.com/live/257/64.m3u8"
+		},
+		 {
+			"name": "广州交通电台",
+			"url": "http://live.xmcdn.com/live/258/64.m3u8"
+		},
+		 {
+			"name": "深圳飞扬音乐971",
+			"url": "http://ls.qingting.fm/live/1271.m3u8"
+		},
+		 {
+			"name": "深圳私家车广播",
+			"url": "http://live.xmcdn.com/live/265/64.m3u8"
+		},
+		 {
+			"name": "广西交通台",
+			"url": "http://live.xmcdn.com/live/304/64.m3u8"
+		},
+		 {
+			"name": "贵州电台交通广播",
+			"url": "http://live.xmcdn.com/live/362/64.m3u8"
+		},
+		 {
+			"name": "海南交通广播",
+			"url": "http://ls.qingting.fm/live/4911.m3u8"
+		},
+		 {
+			"name": "海南音乐广播",
+			"url": "http://ls.qingting.fm/live/4878.m3u8"
+		},
+		 {
+			"name": "河南交通广播",
+			"url": "http://ls.qingting.fm/live/1209.m3u8"
+		},
+		 {
+			"name": "楚天交通广播",
+			"url": "http://live.xmcdn.com/live/705/64.m3u8"
+		},
+		 {
+			"name": "楚天音乐广播",
+			"url": "http://live7.hbtv.com.cn/masvod/ctyygb_q1/index.m3u8"
+		},
+		 {
+			"name": "长沙交通音乐广播",
+			"url": "http://ls.qingting.fm/live/3967.m3u8"
+		},
+		 {
+			"name": "郴州音乐交通广播",
+			"url": "http://ls.qingting.fm/live/86747.m3u8"
+		},
+		 {
+			"name": "岳阳交通广播",
+			"url": "http://ls.qingting.fm/live/88931.m3u8"
+		},
+		 {
+			"name": "吉林交通广播 ",
+			"url": "http://live.xmcdn.com/live/431/64.m3u8"
+		},
+		 {
+			"name": "长春交通之声",
+			"url": "http://ls.qingting.fm/live/4967.m3u8"
+		},
+		 {
+			"name": "江苏交通广播",
+			"url": "http://lzlive.vojs.cn/4TaHTeL/92/live.m3u8"
+		},
+		 {
+			"name": "苏州交通广播",
+			"url": "http://live.xmcdn.com/live/64/64.m3u8"
+		},
+		 {
+			"name": "无锡交通广播",
+			"url": "http://live.xmcdn.com/live/560/64.m3u8"
+		},
+		 {
+			"name": "扬州交通广播",
+			"url": "http://ls.qingting.fm/live/2804.m3u8"
+		},
+		 {
+			"name": "南昌交通广播",
+			"url": "http://live.xmcdn.com/live/618/64.m3u8"
+		},
+		 {
+			"name": "辽宁交通广播",
+			"url": "http://live.xmcdn.com/live/1649/64.m3u8"
+		},
+		 {
+			"name": "沈阳音乐广播",
+			"url": "http://ls.qingting.fm/live/1101.m3u8"
+		},
+		 {
+			"name": "包头交通广播",
+			"url": "http://live.xmcdn.com/live/1111/64.m3u8"
+		},
+		 {
+			"name": "西宁交通频率",
+			"url": "http://live.xmcdn.com/live/1253/64.m3u8"
+		},
+		 {
+			"name": "山东交通广播",
+			"url": "http://live.xmcdn.com/live/798/64.m3u8"
+		},
+		 {
+			"name": "济南交通广播",
+			"url": "http://ls.qingting.fm/live/1669.m3u8"
+		},
+		 {
+			"name": "青岛交通广播",
+			"url": "http://live.xmcdn.com/live/807/64.m3u8"
+		},
+		 {
+			"name": "山西交通频道",
+			"url": "http://live.xmcdn.com/live/885/64.m3u8"
+		},
+		{
+			"name": "西安交通广播 ",
+			"url": "http://live.xmcdn.com/live/1371/64.m3u8"
+		},
+		{
+			"name": "陕西交通广播",
+			"url": "http://ls.qingting.fm/live/1601.m3u8"
+		},
+		{
+			"name": "四川交通广播",
+			"url": "http://live.xmcdn.com/live/752/64.m3u8"
+		},
+		{
+			"name": "云南交通广播",
+			"url": "http://live.xmcdn.com/live/903/64.m3u8"
+		},
+		{
+			"name": "温州交通广播",
+			"url": "http://live.xmcdn.com/live/641/64.m3u8"
+		},
+		{
+			"name": "湖州交通文艺广播",
+			"url": "http://live.xmcdn.com/live/656/64.m3u8"
 		}
-		
-
-		
-		
 
 	]
 
