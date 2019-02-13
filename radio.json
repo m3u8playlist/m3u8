@@ -1,1 +1,112 @@
 
+{
+	"uuid":"64350b50-a810-4901-b86b-7a5106bdef2c",
+	"title": "电台",
+
+	"channels": [		
+
+		
+		{
+			"name":"香港电台第1台",
+			"url": "http://rthkaudio1-lh.akamaihd.net/i/radio1_1@355864/master.m3u8"
+		},
+		{
+			"name":"香港电台第2台",
+			"url": "http://rthkaudio2-lh.akamaihd.net/i/radio2_1@355865/master.m3u8"
+		},
+		{
+			"name":"香港电台第3台",
+			"url": "http://rthkaudio3-lh.akamaihd.net/i/radio3_1@355866/master.m3u8"
+		},
+		{
+			"name":"香港电台第4台",
+			"url": "http://rthkaudio4-lh.akamaihd.net/i/radio4_1@355867/master.m3u8"
+		},
+		{
+			"name": "香港电台第5台",
+			"url": "http://rthkaudio5-lh.akamaihd.net/i/radio5_1@355868/master.m3u8"
+		},
+		{
+			"name": "香港电台普通話台",
+			"url": "http://rthkaudio6-lh.akamaihd.net/i/radiopth_1@355869/master.m3u8"
+		},
+		
+		{
+			"name":"新城電台知訊997",
+			"url": "http://metroradio-lh.akamaihd.net/i/997_h@349799/master.m3u8"
+		},
+		
+
+		{
+			"name": "新城電台財經104",
+			"url": "http://metroradio-lh.akamaihd.net/i/104_h@349798/master.m3u8"
+		},
+		
+			{
+			"name":"新城電台Metro Plus AM1044",
+			"url": "http://metroradio-lh.akamaihd.net/i/1044_h@349800/master.m3u8"
+		},
+				
+						{
+			"name":"商業電台雷霆881",
+			"url": "http://d2agljdoug3z0j.cloudfront.net/radio-HTTP/cr1-hd.3gp/chunklist.m3u8"
+		},
+		
+						{
+			"name":"商業電台叱咤903",
+			"url": "http://d2agljdoug3z0j.cloudfront.net/radio-HTTP/cr2-hd.3gp/chunklist.m3u8"
+		},
+		{
+			"name":"商業電台AM864",
+			"url": "http://d3ca3xccq5z5hu.cloudfront.net/radio-HTTP/am864.3gp/chunklist.m3u8"
+		},
+						{
+			"name":"RTI国语",
+			"url": "http://live2.rti.org.tw/live/_definst_/rti/rti3/playlist.m3u8"
+		},
+						{
+			"name":"RTI1577音乐台",
+			"url": "http://live2.rti.org.tw/live/_definst_/rti/rti4/playlist.m3u8"
+		},
+
+		{
+			"name": "RTI1422台湾台",
+			"url": "http://live2.rti.org.tw/live/_definst_/rti/rti5/playlist.m3u8"
+		},
+    {
+			"name":"CBC Radio 1",
+			"url": "http://liveradio.cbc.ca/i/CBCR1_OTT@348188/master.m3u8"
+		},
+
+		{
+			"name": "CBC Radio 2",
+			"url": "http://liveradiocanada.cbc.ca/i/CBCR2_TOR@382863/master.m3u8"
+		},
+		
+		
+		{
+			"name": "ABC Radio Canberra",
+			"url": "http://abcradiolivehls-lh.akamaihd.net/i/localcanberra_1@327263/master.m3u8"
+		},
+		
+		{
+			"name": "ABC Jazz",
+			"url": "http://abcradiolivehls-lh.akamaihd.net/i/abcjazz_1@327288/master.m3u8"
+		},
+		{
+			"name": "ABC Multi-language service",
+			"url": "http://abcradiolivehls-lh.akamaihd.net/i/ramultilang1@176827/master.m3u8"
+		},
+		
+		{
+			"name": "ABC English service",
+			"url": "http://abcradiolivehls-lh.akamaihd.net/i/raeng1@433109/master.m3u8"
+		}
+		
+
+		
+		
+
+	]
+
+}
