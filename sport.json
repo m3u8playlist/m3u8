@@ -1,7 +1,7 @@
 
 {
 	"uuid":"64350b50-a810-4901-b86b-7a5106bdef2c",
-	"title": "电体育频道",
+	"title": "体育频道",
 
 	"channels": [		
 
@@ -11,33 +11,21 @@
 			"url": "http://183.207.248.35/PLTV/2/224/3221226799/index.m3u8"
 		},
     		{
-			"name":"",
-			"url": ""
+			"name":"超级体育",
+			"url": "http://183.207.248.35/PLTV/2/224/3221226801/index.m3u8"
 		},
     		{
-			"name":"",
-			"url": ""
+			"name":"CCTV5",
+			"url": "http://111.40.205.87/PLTV/88888888/224/3221225711/index.m3u8"
 		},
     		{
-			"name":"",
-			"url": ""
+			"name":"CCTV5+",
+			"url": "http://111.40.205.87/PLTV/88888888/224/3221225603/index.m3u8"
 		},
     		{
-			"name":"",
-			"url": ""
-		},
-    		{
-			"name":"",
-			"url": ""
-		},
-    		{
-			"name":"",
-			"url": ""
-		},
-    		{
-			"name":"",
-			"url": ""
-		},
+			"name":"澳视体育",
+			"url": "http://live3.tdm.com.mo:1935/ch4/sport_ch4.live/playlist.m3u8"
+		}
     
     ]
 }
