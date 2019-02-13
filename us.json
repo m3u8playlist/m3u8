@@ -9,14 +9,16 @@
 			"name":"BLOOMBERG HD",
 			"url": "https://bblive-liveproduseast.hs.llnwd.net/btv/desktop/us_live.m3u8"
 		},
-		{
-			"name":"POP USA",
-			"url": "http://bcsecurelivehls-i.akamaihd.net/hls/live/505785/5367332899001/master_2500.m3u8"
-		},
+		
 		{
 			"name":"彭博澳洲",
 			"url": "https://bblive-liveprodapnortheast.hs.llnwd.net/oz1/Channel-OZTVqvs-AWS-tokyo-1/Source-OZTVqvs-1000-1_live.m3u8"
 		},
+		{
+			"name":"POP USA",
+			"url": "http://bcsecurelivehls-i.akamaihd.net/hls/live/505785/5367332899001/master_2500.m3u8"
+		},
+		
 		{
 			"name":"CBS News 1",
 			"url": "http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8"
@@ -38,6 +40,50 @@
 		{
 			"name":"msnbc",
 			"url": "http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/master.m3u8"
+		},
+		{
+			"name":"美国芝加哥WGN9频道HD",
+			"url": "http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8"
+		},
+		{
+			"name":"美国FLIXHD",
+			"url": "http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8"
+		},
+		{
+			"name":"美国CGTN (Opt-1)",
+			"url": "http://live.cgtn.com/500/prog_index.m3u8"
+		},
+		{
+			"name":"美国CGTN (Opt-2)",
+			"url": "http://live.cgtn.com/1000/prog_index.m3u8"
+		},
+		{
+			"name":"美国Beach TV - 30A",
+			"url": "http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8"
+		},
+		{
+			"name":"美国Beach TV - Panama City",
+			"url": "http://media4.tripsmarter.com:1935/LiveTV/BTVHD/chucklist.m3u8"
+		},
+		{
+			"name":"美国Beach TV - Pawleys Island",
+			"url": "http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8"
+		},
+		{
+			"name":"加拿大CTV News Live 1",
+			"url": "http://ams-lp10.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News18.m3u8"
+		},
+		{
+			"name":"加拿大CTV News Live 2",
+			"url": "http://ams-lp7.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News28.m3u8"
+		},
+		{
+			"name":"加拿大CTV News Live 3",
+			"url": "http://ams-lp6.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News38.m3u8"
+		},
+		{
+			"name":"加拿大CTV News Live 4",
+			"url": "http://ams-lp5.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News48.m3u8"
 		},
 		
 		{
@@ -93,6 +139,31 @@
 		{
 			"name": "土耳其TRT WORLD",
 			"url": "http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8"
+		},
+		
+		{
+			"name":"新西兰Parliament TV",
+			"url": "http://streaming.kordia.net.nz/out/u/ptv_houseaudio.m3u8"
+		},
+		{
+			"name":"新西兰Three",
+			"url": "http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/3news_live/master.m3u8"
+		},
+		{
+			"name":"新西兰TVSN",
+			"url": "http://tvsn-i.akamaihd.net/hls/live/261837/tvsn_nz/tvsn_nz_750.m3u8"
+		},
+		{
+			"name":"澳大利亚2UE Sydney",
+			"url": "http://syd2uevid-lh.akamaihd.net/i/sydneyuevid_1@110994/index_500_av-p.m3u8"
+		},
+		{
+			"name":"澳大利亚3AW Melbourne",
+			"url": "http://melb3awvid-lh.akamaihd.net/i/melbournevid_1@109381/master.m3u8"
+		},
+		{
+			"name":"澳大利亚4BC Brisbane",
+			"url": "http://bris4bcvid-lh.akamaihd.net/i/brisbanebcvida_1@110989/master.m3u8"
 		},
 		
 		{
