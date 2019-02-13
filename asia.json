@@ -10,7 +10,10 @@
 			"name":"TVB财经台",
 			"url": "http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/chunklist.m3u8"
 		},
-		
+		{
+			"name":"TVB财经台",
+			"url": "http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/chunklist_w919410739.m3u8"
+		},
 		{
 			"name":"now tv",
 			"url": "http://live.italkdd.com/cds160/hls/channel003/channel003_2000.m3u8"
@@ -24,17 +27,19 @@
 			"url": "http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8"
 		},
 		{
+			"name": "香港32台",
+			"url": "http://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_2052_av-b.m3u8"
+		},
+		
+		{
 			"name":"奇妙电视",
 			"url": "http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8"
 		},
-		{
-			"name":"耀才财经资讯",
-			"url": "http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/chunklist_w919410739.m3u8"
-		},
+		
 
 		{
-			"name": "TVB娱乐新闻台",
-			"url": "http://token.tvb.com/stream/live/enews/hls/mobilehd_enews.smil"
+			"name": "ViuTV99",
+			"url": "http://viutv99-i.akamaihd.net/hls/live/265284/live1/master.m3u8"
 		},
 		
 			{
@@ -83,10 +88,7 @@
 			"name": "韩国arirang",
 			"url": "http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8"
 		},
-		{
-			"name": "韩国MBC",
-			"url": "http://www.pickcom.co.kr:1935/sjp/live07/chunklist_w2107750490.m3u8"
-		},
+		
 		{
 			"name": "韩国EBS2",
 			"url": "http://ebsonair.ebs.co.kr:1935/ebs2familypc/familypc1m/playlist.m3u8"
