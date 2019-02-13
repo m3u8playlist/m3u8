@@ -41,6 +41,14 @@
 			"name": "ViuTV99",
 			"url": "http://viutv99-i.akamaihd.net/hls/live/265284/live1/master.m3u8"
 		},
+		{
+			"name": "亚视A1",
+			"url": "https://de035ceb0768225b04e9a007abe39fca.live.prod.hkatv.com/a1_cbr_lo.m3u8"
+		},
+		{
+			"name": "亚视经典",
+			"url": "https://1c3aecd176429fae1962f229fd51b1d5.live.prod.hkatv.com/a2_cbr_lo.m3u8"
+		},
 		
 			{
 			"name":"澳门资讯",
