@@ -76,7 +76,15 @@
 			"name":"澳视澳门",
 			"url": "http://61.244.22.4/ch1/ch1.live/playelist.m3u8"
 		},
-
+		
+	{
+			"name":"东森综合",
+			"url": "http://60.250.69.26:8080/live/ebc89.m3u8"
+		},
+		{
+			"name":"民视新闻台",
+			"url": "https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8"
+		},
 		{
 			"name": "凤凰卫视资讯台",
 			"url": "http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8"
@@ -86,7 +94,7 @@
 			"url": "http://111.13.42.13/PLTV/88888888/224/3221225942/index.m3u8"
 		},
     {
-			"name":"nhk",
+			"name":"nhk world",
 			"url": "http://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8"
 		},
 
