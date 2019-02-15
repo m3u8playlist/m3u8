@@ -94,7 +94,7 @@
 			"url": "http://111.13.42.13/PLTV/88888888/224/3221225942/index.m3u8"
 		},
     {
-			"name":"nhk world",
+			"name":"日本nhk world",
 			"url": "http://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8"
 		},
 
@@ -102,7 +102,26 @@
 			"name": "Japan 24news",
 			"url": "https://n24-cdn-live.ntv.co.jp/ch01/High.m3u8"
 		},
-		
+		 {
+			"name":"日本Family Gekijyo",
+			"url": "http://192.240.127.34:1935/live/cs11.stream/media_1254.m3u8"
+		},
+		{
+			"name":"日本History",
+			"url": "http://192.240.127.34:1935/live/cs14.stream/media_1254.m3u8"
+		},
+		{
+			"name":"日本Eisei Gekijo",
+			"url": "http://192.240.127.34:1935/live/cs18.stream/media_1254.m3u8"
+		},
+		{
+			"name":"日本Nihon Eiga TV",
+			"url": "http://192.240.127.34:1935/live/cs19.stream/media_1254.m3u8"
+		},
+		{
+			"name":"日本Cinefil WOWOW",
+			"url": "http://192.240.127.34:1935/live/cs27.stream/media_1254.m3u8"
+		},
 		
 		{
 			"name": "韩国arirang",
