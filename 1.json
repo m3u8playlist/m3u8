@@ -9,6 +9,24 @@
 			"url": "http://161.0.157.38/PLTV/88888888/224/3221226127/index.m3u8"
 		},
 		{
+			"name":"新视觉",
+			"url": "http://113.142.90.138/chinanet4-live.bestvcdn.com.cn/live/program/live/xsjhd/2300000/live.m3u8"
+		},
+		
+		{
+			"name":"RED BULL TV FHD",
+			"url": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8"
+		},
+		{
+			"name":"RED BULL HD",
+			"url": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8"
+		},
+		{
+			"name":"RED BULL SD",
+			"url": "http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8"
+		},
+
+		{
 			"name":"上海纪实",
 			"url": "http://hw-stream.kksmg.com/hls/channel1061/index.m3u8"
 		},
