@@ -7,15 +7,15 @@
 
 		
 		{
-			"name":"TVB财经台",
+			"name":"香港TVB财经台",
 			"url": "http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/chunklist.m3u8"
 		},
 		{
-			"name":"TVB财经台",
+			"name":"香港TVB财经台",
 			"url": "http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/chunklist_w919410739.m3u8"
 		},
 		{
-			"name":"now tv",
+			"name":"香港now tv",
 			"url": "http://live.italkdd.com/cds160/hls/channel003/channel003_2000.m3u8"
 		},
 		{
@@ -32,21 +32,21 @@
 		},
 		
 		{
-			"name":"奇妙电视",
+			"name":"香港开电视",
 			"url": "http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8"
 		},
 		
 
 		{
-			"name": "ViuTV99",
+			"name": "香港ViuTV99",
 			"url": "http://viutv99-i.akamaihd.net/hls/live/265284/live1/master.m3u8"
 		},
 		{
-			"name": "亚视A1",
+			"name": "香港亚视A1",
 			"url": "https://de035ceb0768225b04e9a007abe39fca.live.prod.hkatv.com/a1_cbr_lo.m3u8"
 		},
 		{
-			"name": "亚视经典",
+			"name": "香港亚视经典",
 			"url": "https://1c3aecd176429fae1962f229fd51b1d5.live.prod.hkatv.com/a2_cbr_lo.m3u8"
 		},
 		
@@ -99,7 +99,7 @@
 		},
 
 		{
-			"name": "Japan 24news",
+			"name": "日本24news",
 			"url": "https://n24-cdn-live.ntv.co.jp/ch01/High.m3u8"
 		},
 		 {
@@ -132,10 +132,7 @@
 			"name": "韩国EBS2",
 			"url": "http://ebsonair.ebs.co.kr:1935/ebs2familypc/familypc1m/playlist.m3u8"
 		},
-		{
-			"name": "阿聯酋UAE SPORTS HD",
-			"url": "http://dmiftvll.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b2000000.m3u8"
-		},
+		
 		
 		{
 			"name": "新加坡MUTV",
