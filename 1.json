@@ -8,7 +8,26 @@
 			"name":"HBO",
 			"url": "http://161.0.157.38/PLTV/88888888/224/3221226127/index.m3u8"
 		},
-		
+		{
+			"name":"上海纪实",
+			"url": "http://hw-stream.kksmg.com/hls/channel1061/index.m3u8"
+		},
+		{
+			"name":"艺术人文",
+			"url": "http://hw-stream.kksmg.com/hls/channel1071/index.m3u8"
+		},
+		{
+			"name":"上海外语",
+			"url": "http://hw-stream.kksmg.com/hls/channel1081/index.m3u8"
+		},
+		{
+			"name":"上海都市",
+			"url": "http://live-stream.kksmg.com/hls/ylpde66e9037_7bf15f94aa8a107352bc28c6/playlist.m3u8"
+		},
+		{
+			"name":"上海新闻",
+			"url": "http://live-stream.kksmg.com/hls/stv7af3c4ee_5ed4462f9ba057dadf59f2e3/playlist.m3u8"
+		},
 		{
 			"name":"Newtv动作电影",
 			"url": "http://111.40.205.87/PLTV/88888888/224/3221225661/index.m3u8"
