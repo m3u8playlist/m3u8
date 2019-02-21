@@ -47,6 +47,51 @@
 			"url": "http://live-stream.kksmg.com/hls/stv7af3c4ee_5ed4462f9ba057dadf59f2e3/playlist.m3u8"
 		},
 		{
+			"name":"TVS1经济科教",
+			"url": "http://gdlive.grtn.cn/newtvs1/hd/live.m3u8"
+		},
+		{
+			"name":"TVS2南方卫视",
+			"url": "http://gdlive.grtn.cn/newtvs2/sd/live.m3u8"
+		},
+		{
+			"name":"TVS3广东综艺",
+			"url": "http://stream1.grtn.cn/4K/sd/live.m3u8"
+		},
+		{
+			"name":"TVS4广东影视",
+			"url": "http://gdlive.grtn.cn/newtvs4/sd/live.m3u8"
+		},
+		{
+			"name":"TVS5广东少儿",
+			"url": "http://gdlive.grtn.cn/newtvs5/sd/live.m3u8"
+		},
+		{
+			"name":"杭州1",
+			"url": "http://125.210.152.20:9090/live/HZZH.m3u8"
+		},
+		{
+			"name":"杭州2",
+			"url": "http://125.210.152.20:9090/live/XHMZ.m3u8"
+		},
+		{
+			"name":"杭州3",
+			"url": "http://125.210.152.20:9090/live/HZSH.m3u8"
+		},
+		{
+			"name":"杭州4",
+			"url": "http://125.210.152.20:9090/live/HZYS.m3u8"
+		},
+		{
+			"name":"杭州5",
+			"url": "http://125.210.152.20:9090/live/HZSE.m3u8"
+		},
+		{
+			"name":"杭州6",
+			"url": "http://125.210.152.20:9090/live/HZFC.m3u8"
+		},
+		
+		{
 			"name":"Newtv动作电影",
 			"url": "http://111.40.205.87/PLTV/88888888/224/3221225661/index.m3u8"
 		},
