@@ -6,7 +6,7 @@
 
 https://www.bejson.com/json/col2json/
 
-!https://github.com/m3u8playlist/m3u8/raw/master/json.png
+![pic](https://github.com/m3u8playlist/m3u8/raw/master/json.png)
 
 将转出来的列表，前面添加
 
