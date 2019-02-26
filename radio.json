@@ -60,11 +60,52 @@
 			"name":"商業電台AM864",
 			"url": "http://d3ca3xccq5z5hu.cloudfront.net/radio-HTTP/am864.3gp/chunklist.m3u8"
 		},
-						{
-			"name":"RTI国语",
-			"url": "http://live2.rti.org.tw/live/_definst_/rti/rti3/playlist.m3u8"
+		{
+			"name":"BBC Radio 1[uk ip]",
+			"url": "http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_one.m3u8"
 		},
-						{
+		{
+			"name":"BBC Radio 1Xtra[uk ip]",
+			"url": "http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_1xtra.m3u8"
+		},
+		{
+			"name":"BBC Radio 2[uk ip]",
+			"url": "http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_two.m3u8"
+		},
+		{
+			"name":"BBC Radio 3[uk ip]",
+			"url": "http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_two.m3u8"
+		},
+		{
+			"name":"BBC Radio 4[uk ip]",
+			"url": "http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_fourfm.m3u8"
+		},
+		{
+			"name":"BBC Radio 4LW[uk ip]",
+			"url": "http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_fourlw.m3u8"
+		},
+		{
+			"name":"BBC Radio 4 Extra[uk ip]",
+			"url": "http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_four_extra.m3u8"
+		},
+		{
+			"name":"BBC Radio 5 Live[uk ip]",
+			"url": "http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_five_live.m3u8"
+		},
+		{
+			"name":"BBC Radio 5 Live Sports Extra[uk ip]",
+			"url": "http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_five_live_sports_extra.m3u8"
+		},
+		{
+			"name":"BBC Radio 6 Music[uk ip]",
+			"url": "http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_6music.m3u8"
+		},
+		{
+			"name":"BBC Asian Network[uk ip]",
+			"url": "http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_asian_network.m3u8"
+		},
+		
+		{
 			"name":"RTI1577音乐台",
 			"url": "http://live2.rti.org.tw/live/_definst_/rti/rti4/playlist.m3u8"
 		},
