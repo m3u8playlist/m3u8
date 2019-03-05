@@ -89,6 +89,10 @@
 			"name":"FTV",
 			"url": "http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8"
 		},
+		{
+			"name":"AXN",
+			"url": "http://45.126.83.51/session/fa70149a-3dea-11e9-b81a-9396b71b880b/uq2663/h/h09/01.m3u8"
+		},
 	
 
 		{
