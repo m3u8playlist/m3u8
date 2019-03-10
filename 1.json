@@ -31,12 +31,16 @@
 			"url": "http://hw-stream.kksmg.com/hls/channel1061/index.m3u8"
 		},
 		{
-			"name":"艺术人文",
+			"name":"上海艺术人文",
 			"url": "http://hw-stream.kksmg.com/hls/channel1071/index.m3u8"
 		},
 		{
 			"name":"上海外语",
 			"url": "http://hw-stream.kksmg.com/hls/channel1081/index.m3u8"
+		},
+		{
+			"name":"上海新闻综合",
+			"url": "http://hw-stream.kksmg.com/hls/channel1091/index.m3u8"
 		},
 		{
 			"name":"上海都市",
