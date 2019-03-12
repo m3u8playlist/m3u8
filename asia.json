@@ -27,7 +27,7 @@
 			"url": "http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8"
 		},
 		{
-			"name": "香港32台",
+			"name": "香港32台[hkip]",
 			"url": "http://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_2052_av-b.m3u8"
 		},
 		
@@ -38,7 +38,7 @@
 		
 
 		{
-			"name": "香港ViuTV99",
+			"name": "香港ViuTV99[hkip]",
 			"url": "http://viutv99-i.akamaihd.net/hls/live/265284/live1/master.m3u8"
 		},
 		{
