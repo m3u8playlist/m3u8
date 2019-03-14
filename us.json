@@ -37,6 +37,10 @@
 			"name":"Weather Channel",
 			"url": "https://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8"
 		},
+		{
+			"name":"The Country Network",
+			"url": "https://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/master.m3u8"
+		},
 		
 		{
 			"name":"美国芝加哥WGN9频道HD",
@@ -165,28 +169,28 @@
 		},
 		
 		{
-			"name": "BBC One需英国梯子,下同",
+			"name": "BBC One[uk ip]",
 			"url": "http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_one_hd.m3u8"
 },
 
 {
-			"name": "BBC Two HD",
+			"name": "BBC Two HD[uk ip]",
 			"url": "http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_two_england.m3u8"
 },
 {
-			"name": "BBC Four HD",
+			"name": "BBC Four HD[uk ip]",
 			"url": "http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_four.m3u8"
 },
 {
-			"name": "CBBC HD",
+			"name": "CBBC HD[uk ip]",
 			"url": "http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/cbbc.m3u8"
 },
 {
-			"name": "CBeebies HD",
+			"name": "CBeebies HD[uk ip]",
 			"url": "http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/cbeebies.m3u8"
 },
 {
-			"name": "BBC News HD",
+			"name": "BBC News HD[uk ip]",
 			"url": "http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_news24.m3u8"
 }
 
