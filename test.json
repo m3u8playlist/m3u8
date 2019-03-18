@@ -1,21 +1,58 @@
 
 {
 	"uuid":"f5d4a31b-ba3b-452b-8521-e59c1a91c496",
+
 	"title": "test",
 
-	"channels": [
+	"channels": [		
+
+		
 		{
-			"name":"RED BULL HD",
-			"url": "RnsPgojUSyAskuCOXY3SHNs5fKiKR0u+esZ4/q/TXKFWPafTOj1GgaUVKt0HRbUpISmtj8HMRhSnEUyp8xCt/HoJPfI7VLSiVVvJTNQQQJo="
+			"name":"香港TVB财经台",
+			"url": "t81LrlchRMfrnn6WDREvDIj3AlTnPCJhLS/a4914bTX6uCAb21Z8L3OvNrge27KJ8sigA0pwM57vr7EPISqTTbCdFKEGUbxX51ZphhweghZfPsTffaohky9Izb8gR7HF"
 		},
 		{
-			"name":"HBO",
-			"url": "rKo83gYTdsxj0/HdQDx1d0hOExv+bnABf0N6G4Wx+cdT6nypAhISmXvzKY83Pz9E1ci21ZWLK80LW90yznepAw=="
+			"name":"香港TVB财经台",
+			"url": "t81LrlchRMfrnn6WDREvDIj3AlTnPCJhLS/a4914bTX6uCAb21Z8L3OvNrge27KJ8sigA0pwM57vr7EPISqTTbCdFKEGUbxX51ZphhweghbO6uOsOGp77Hz0054I+wvOc1hSAslNnGpzVd+q00TwyA=="
+		},
+		{
+			"name":"香港now tv",
+			"url": "WVboS742/8RLtgVmYRYZXbt7ptQwlDE9IscLr9uvubJwJXVya8PvB4pYPCPF2fkfG9AX+X18DY0/4AFLNtPB2cXtAgAA0BGC4HBFd13dPL8="
+		},
+		{
+			"name":"600 news",
+			"url": "WVboS742/8RLtgVmYRYZXbt7ptQwlDE9IscLr9uvubKpX9VQGoSKpcp1e5zPV621YDq9kn3dRSQS+i8Oh+krocXtAgAA0BGC4HBFd13dPL8="
+		},
+		{
+			"name": "香港31台",
+			"url": "zfnjst+KVdiQO6yX4iwufEJQx2crr4nxmD94y6zIQRuC0Nb5ohZ/Rs7Yl3uuYrzdGs73LKvhMfk7bG68aPnVySLMke31of7kua0Cry6D9Fs="
+		},
+		{
+			"name": "香港32台",
+			"url": "ROSwtVB0YTApTUwDH9hrJkJQx2crr4nxmD94y6zIQRs6pGzp4YWxpAIf3O2c0xh8/nrrbNA68qhgqqs7pRBhNiLMke31of7kua0Cry6D9Fs="
+		},
+		
+		{
+			"name":"香港开电视",
+			"url": "16bcxvuhbPcfACtYAMl/3iWBzmoY1Mh9KjA1ldJJkt5pEEpaZS2qKfpQeuzonGWqgmGHu6uKizH5S5vjRq3N9w=="
+		},
+		
+
+		{
+			"name": "香港ViuTV99",
+			"url": "oUiPQnzxLcQaoEdtsm4UVOfkWEQGHTs6wIiqMxcSNjwlYiyxgyWlMv8f6lwl6l9nnGyqPknryNLiL3E+4p9oeQ=="
+		},
+		{
+			"name": "香港亚视A1",
+			"url": "1j/GZ/BGOskd9cBnuUEY6BYjRWTAw7ZFhFpvZhOm0DUg+NdsG0c94mUjUsdn+W6eLCk6x8h+8WjiV3r3dhz3X0fIPZ2RWdtGz8YwYKqGpOM="
+		},
+		{
+			"name": "香港亚视经典",
+			"url": "wJ14ot1u16dJvEO0tZRmECQJ5fLIQFGyhmsl7xULEvKAO6hYOqjKR0SCGXbDs9963KTnNdIHmKQeQvwStzHw+EfIPZ2RWdtGz8YwYKqGpOM="
 		}
 		
+
 		
-
-
 		
 
 	]
