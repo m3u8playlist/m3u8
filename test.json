@@ -4,7 +4,10 @@
 	"title": "test",
 
 	"channels": [
-		
+		{
+			"name":"RED BULL HD",
+			"url": "RnsPgojUSyAskuCOXY3SHNs5fKiKR0u+esZ4/q/TXKFWPafTOj1GgaUVKt0HRbUpISmtj8HMRhSnEUyp8xCt/HoJPfI7VLSiVVvJTNQQQJo="
+		},
 		{
 			"name":"HBO",
 			"url": "rKo83gYTdsxj0/HdQDx1d0hOExv+bnABf0N6G4Wx+cdT6nypAhISmXvzKY83Pz9E1ci21ZWLK80LW90yznepAw=="
