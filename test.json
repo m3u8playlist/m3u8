@@ -1,27 +1,39 @@
 {
 	"uuid":"f5d4a31b-ba3b-452b-8521-e59c1a91c496",
-	"title": "[TV][live][Canada]",
-	"channels": [
-	
-		{
-			"name": "CTV News Live 1",
-			"url": "Lbju3rozHngfjGUoH4zLwdg9lAL3ZvcJpBo1SYUksChtL2UagxVl70D1q7cKWNFeA5MA3ZRBXUEXDK8sTnf+4AuxPSwRfaoRCSb4KPPNg5I="
-		},
-		{
-			"name": "CTV News Live 2",
-			"url": "6LhmElxr9AmxVguc4bGMumqWQxeIricifhS/5onwUnj+cgSZqRMSGIfWBiZSmJMnPoVMULgE9eHBRwPRUOjf5NwrZahj9VkWWH77ttAa4iM="
-		},
-		{
-			"name": "CTV News Live 3",
-			"url": "meEbTujgWUrThXRiLM+QCWqWQxeIricifhS/5onwUnj+cgSZqRMSGIfWBiZSmJMnPoVMULgE9eHBRwPRUOjf5PSVqdGjezgWwwO3RYI5M24="
-		},
-		{
-			"name": "CTV News Live 4",
-			"url": "PzOklBK5iFKliR79mqKirGqWQxeIricifhS/5onwUnj+cgSZqRMSGIfWBiZSmJMnPoVMULgE9eHBRwPRUOjf5FXou93DFuQqywY/rXCAGxg="
-		}
-
-
-
-	]
-
+    "title": "[TV][Live][Japan]", 
+    "channels": [
+        {
+            "name": "nhk world", 
+            "url": "KxaJSuSDKG/RJJW1XjjbLnbG/0T3m5b5ASETGc4aFSDaSHMS4P3lrEe5/KQ7x2mpDDTofbbKIxFrnoXqJNcvFYS3tdDbrCoViBS1fYX6zkc="
+        }, 
+        {
+            "name": "japan 24news", 
+            "url": "YoqCi1ycvAXYNDHxmClfLn6UWZrFPIb05fyzlcCDqiMznEqWmHa8uWgjTkY1za4T"
+        }, 
+        {
+            "name": "Family Gekijyo", 
+            "url": "H9oVgkZgYgjRYqmqVfDH6PZ7AUnE3fV0lZh2XdwR3Uv4oAys62DvuOtMzToeozeXUuh/TnXjweDc2Tt/LUWxag=="
+        }, 
+        {
+            "name": "History", 
+            "url": "H9oVgkZgYgjRYqmqVfDH6PZ7AUnE3fV0lZh2XdwR3UvxqN29gT9mXZQdSZwfTuURUuh/TnXjweDc2Tt/LUWxag=="
+        }, 
+        {
+            "name": "Eisei Gekijo", 
+            "url": "H9oVgkZgYgjRYqmqVfDH6PZ7AUnE3fV0lZh2XdwR3Uvx+woc+XzJpUapaTxDndQ0Uuh/TnXjweDc2Tt/LUWxag=="
+        }, 
+        {
+            "name": "Nihon Eiga TV", 
+            "url": "H9oVgkZgYgjRYqmqVfDH6PZ7AUnE3fV0lZh2XdwR3UuMZYCUHFJO8XJFWQ1OWftCUuh/TnXjweDc2Tt/LUWxag=="
+        }, 
+        {
+            "name": "Cinefil WOWOW", 
+            "url": "H9oVgkZgYgjRYqmqVfDH6PZ7AUnE3fV0lZh2XdwR3UuCnb3PizTZ0wD3UtVH+arXUuh/TnXjweDc2Tt/LUWxag=="
+        }, 
+         {
+            "name": "Japan Channel DX", 
+            "url": "8YZ/6CSvr4TpQMBsBK3O1utnh4duaVmsZ0P1MS2uKG54+7hFYt0cNksPas0u7nfTtLSF/lEVO9QvjDzS1okV15jRzi2C7Hi8ioJthAB69UFV+a16QZx1tYFGFif9ZNaH"
+        }
+       
+    ]
 }
