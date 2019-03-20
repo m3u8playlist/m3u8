@@ -1,60 +1,132 @@
 
 {
 	"uuid":"f5d4a31b-ba3b-452b-8521-e59c1a91c496",
+	"title": "[TV][Live][爱看咪咕源]",
 
-	"title": "test",
+	"channels": 
+	[
+{"name":"CIBN纪录片",
+"url":"Z62UsBa5D5OoKjllicXIHmxALjmQY4Ge8u4nqQYewuKhNQYvqpDdePbY78fUchWdDMu5FoOCQL/jneKE7M9gU/ow4YxmcBc5gSewzjp7ibs="},
+{"name":"CCTV1HD",
+"url":"Z62UsBa5D5OoKjllicXIHmxALjmQY4Ge8u4nqQYewuKhNQYvqpDdePbY78fUchWdgFqi7oxowO5rvpHsEaRIdPow4YxmcBc5gSewzjp7ibs="},
+{"name":"CCTV1HD",
+"url":"Z62UsBa5D5OoKjllicXIHmxALjmQY4Ge8u4nqQYewuKhNQYvqpDdePbY78fUchWdh6O3Gy+Pg7hjZ3+lvhk9SPow4YxmcBc5gSewzjp7ibs="},
+{"name":"CCTV1HD",
+"url":"Z62UsBa5D5OoKjllicXIHmxALjmQY4Ge8u4nqQYewuKhNQYvqpDdePbY78fUchWdtdchfkRFBQWAemvvI59rZPow4YxmcBc5gSewzjp7ibs="},
+{"name":"CCTV1",
+"url":"Z62UsBa5D5OoKjllicXIHmxALjmQY4Ge8u4nqQYewuKhNQYvqpDdePbY78fUchWdNkkc6ewUgzBOAWgcXOQNV/ow4YxmcBc5gSewzjp7ibs="},
+{"name":"CCTV1",
+"url":"Z62UsBa5D5OoKjllicXIHmxALjmQY4Ge8u4nqQYewuKhNQYvqpDdePbY78fUchWd1DvoNOh4Q6xAF1+xRhwhgfow4YxmcBc5gSewzjp7ibs="},
+{"name":"CCTV2HD",
+"url":"Z62UsBa5D5OoKjllicXIHmxALjmQY4Ge8u4nqQYewuKhNQYvqpDdePbY78fUchWdEN6OTSjrn/3Niv//vScXGvow4YxmcBc5gSewzjp7ibs="},
+{"name":"CCTV2",
+"url":"Z62UsBa5D5OoKjllicXIHmxALjmQY4Ge8u4nqQYewuKhNQYvqpDdePbY78fUchWdz8c+H8gKAzmTPmu66HVmBfow4YxmcBc5gSewzjp7ibs="},
+{"name":"CCTV2",
+"url":"Z62UsBa5D5OoKjllicXIHmxALjmQY4Ge8u4nqQYewuKhNQYvqpDdePbY78fUchWd0PFECvH6hk//XKMPo2yISPow4YxmcBc5gSewzjp7ibs="},
+{"name":"CCTV3",
+"url":"Z62UsBa5D5OoKjllicXIHmxALjmQY4Ge8u4nqQYewuKhNQYvqpDdePbY78fUchWdTUFQEwm1tvnIGISrOQqkG/ow4YxmcBc5gSewzjp7ibs="},
+{"name":"CCTV4",
+"url":"Z62UsBa5D5OoKjllicXIHmxALjmQY4Ge8u4nqQYewuKhNQYvqpDdePbY78fUchWdrQZvHpTd63uJfmUS+DVdUvow4YxmcBc5gSewzjp7ibs="},
+{"name":"CCTV5FD",
+"url":"Z62UsBa5D5OoKjllicXIHmxALjmQY4Ge8u4nqQYewuKhNQYvqpDdePbY78fUchWdLAYegjPYXKKG1ay/UEvU/vow4YxmcBc5gSewzjp7ibs="},
+{"name":"CCTV5HD",
+"url":"Z62UsBa5D5OoKjllicXIHmxALjmQY4Ge8u4nqQYewuKhNQYvqpDdePbY78fUchWdhv6UvR1HaSC5YfN1IuDMr/ow4YxmcBc5gSewzjp7ibs="},
+{"name":"CCTV5HD",
+"url":"Z62UsBa5D5OoKjllicXIHmxALjmQY4Ge8u4nqQYewuKhNQYvqpDdePbY78fUchWd1jGDQltztEZ7V/60XZpP3/ow4YxmcBc5gSewzjp7ibs="},
+{"name":"CCTV5HD",
+"url":"Z62UsBa5D5OoKjllicXIHmxALjmQY4Ge8u4nqQYewuKhNQYvqpDdePbY78fUchWdqrC2wVqNxaRuWli6I7ILq/ow4YxmcBc5gSewzjp7ibs="},
+{"name":"CCTV5FD",
+"url":"Z62UsBa5D5OoKjllicXIHmxALjmQY4Ge8u4nqQYewuKhNQYvqpDdePbY78fUchWdNJXhh7cL1HFUonGks0V9Qfow4YxmcBc5gSewzjp7ibs="},
+{"name":"CCTV5+HD",
+"url":"Z62UsBa5D5OoKjllicXIHmxALjmQY4Ge8u4nqQYewuKhNQYvqpDdePbY78fUchWdQvH4Vdsj8YM10S26lH29J/ow4YxmcBc5gSewzjp7ibs="},
+{"name":"CCTV6HD",
+"url":"Z62UsBa5D5OoKjllicXIHmxALjmQY4Ge8u4nqQYewuKhNQYvqpDdePbY78fUchWdCdYAqWjfEwBzYRKgtxCg5/ow4YxmcBc5gSewzjp7ibs="},
+{"name":"CCTV7HD",
+"url":"Z62UsBa5D5OoKjllicXIHmxALjmQY4Ge8u4nqQYewuKhNQYvqpDdePbY78fUchWdIkgN6a9WaBQlTTfBEWwbY/ow4YxmcBc5gSewzjp7ibs="},
+{"name":"CCTV7",
+"url":"Z62UsBa5D5OoKjllicXIHmxALjmQY4Ge8u4nqQYewuKhNQYvqpDdePbY78fUchWdMo42xA8UuIt/As8lD8rdpvow4YxmcBc5gSewzjp7ibs="},
+{"name":"CCTV8HD",
+"url":"Z62UsBa5D5OoKjllicXIHmxALjmQY4Ge8u4nqQYewuKhNQYvqpDdePbY78fUchWdteBnMHOGbGh7LIpm2poJE/ow4YxmcBc5gSewzjp7ibs="},
+{"name":"CCTV9HD",
+"url":"Z62UsBa5D5OoKjllicXIHmxALjmQY4Ge8u4nqQYewuKhNQYvqpDdePbY78fUchWdb3ZjJMivRtqQM54c9q6iJ/ow4YxmcBc5gSewzjp7ibs="},
+{"name":"CCTV9",
+"url":"Z62UsBa5D5OoKjllicXIHmxALjmQY4Ge8u4nqQYewuKhNQYvqpDdePbY78fUchWdApHJzd/NjqeZ24Eojl59TPow4YxmcBc5gSewzjp7ibs="},
+{"name":"CCTV10HD",
+"url":"Z62UsBa5D5OoKjllicXIHmxALjmQY4Ge8u4nqQYewuKhNQYvqpDdePbY78fUchWdQeE3lfu8GtSF9dcgRRoBy/ow4YxmcBc5gSewzjp7ibs="},
+{"name":"CCTV10",
+"url":"Z62UsBa5D5OoKjllicXIHmxALjmQY4Ge8u4nqQYewuKhNQYvqpDdePbY78fUchWd+7OpFlmVl0BIwa9aoFdiW/ow4YxmcBc5gSewzjp7ibs="},
+{"name":"CCTV11",
+"url":"Z62UsBa5D5OoKjllicXIHmxALjmQY4Ge8u4nqQYewuKhNQYvqpDdePbY78fUchWdb2SA4ABoNG5tq+iIBJPnPvow4YxmcBc5gSewzjp7ibs="},
+{"name":"CCTV12HD",
+"url":"Z62UsBa5D5OoKjllicXIHmxALjmQY4Ge8u4nqQYewuKhNQYvqpDdePbY78fUchWdHLOjMSLgW02PHvLBLVUq7vow4YxmcBc5gSewzjp7ibs="},
+{"name":"CCTV13",
+"url":"Z62UsBa5D5OoKjllicXIHmxALjmQY4Ge8u4nqQYewuKhNQYvqpDdePbY78fUchWdmDJt4EqP1XHXXASjkJheGPow4YxmcBc5gSewzjp7ibs="},
+{"name":"CCTV13HD",
+"url":"Z62UsBa5D5OoKjllicXIHmxALjmQY4Ge8u4nqQYewuKhNQYvqpDdePbY78fUchWdQvJunektPbf0b2w1v25bBPow4YxmcBc5gSewzjp7ibs="},
+{"name":"CCTV13HD",
+"url":"Z62UsBa5D5OoKjllicXIHmxALjmQY4Ge8u4nqQYewuKhNQYvqpDdePbY78fUchWdvqhbSYNK8eVtve2UUW7d6Pow4YxmcBc5gSewzjp7ibs="},
+{"name":"CCTV14HD",
+"url":"Z62UsBa5D5OoKjllicXIHmxALjmQY4Ge8u4nqQYewuKhNQYvqpDdePbY78fUchWdPI+0295JmCiA2RKTb0iiTfow4YxmcBc5gSewzjp7ibs="},
+{"name":"CCTV14FD",
+"url":"Z62UsBa5D5OoKjllicXIHmxALjmQY4Ge8u4nqQYewuKhNQYvqpDdePbY78fUchWdmr08m3YyJm4EkPX42PH3Hvow4YxmcBc5gSewzjp7ibs="},
+{"name":"CCTV14",
+"url":"Z62UsBa5D5OoKjllicXIHmxALjmQY4Ge8u4nqQYewuKhNQYvqpDdePbY78fUchWdf6cZYjNvEboRMv8Htb9iOPow4YxmcBc5gSewzjp7ibs="},
+{"name":"CCTV15",
+"url":"Z62UsBa5D5OoKjllicXIHmxALjmQY4Ge8u4nqQYewuKhNQYvqpDdePbY78fUchWd4TMJNM7RQIj8u4h7QSEzBvow4YxmcBc5gSewzjp7ibs="},
+{"name":"CGTN",
+"url":"Z62UsBa5D5OoKjllicXIHmxALjmQY4Ge8u4nqQYewuKhNQYvqpDdePbY78fUchWdxnzz+mnPE5+rS6diwYR6rfow4YxmcBc5gSewzjp7ibs="},
+{"name":"山东卫视HD",
+"url":"EbelczFY44/QWxk0dw4vaoW8SLpY2aWDTnU5O0z2M8vDDL9+nvSydZmMvUayAWyhjCgZOBYQXzB+2Dqh5D8Pw6f2lVGwCDpGAezHTWKNOko="},
+{"name":"旅游卫视",
+"url":"Z62UsBa5D5OoKjllicXIHmxALjmQY4Ge8u4nqQYewuKhNQYvqpDdePbY78fUchWdLhXDuprDvSYAqHvB0B+tifow4YxmcBc5gSewzjp7ibs="},
+{"name":"东方卫视",
+"url":"Z62UsBa5D5OoKjllicXIHmxALjmQY4Ge8u4nqQYewuKhNQYvqpDdePbY78fUchWd6UDbTZOyiG9EQpr5EVTOP/ow4YxmcBc5gSewzjp7ibs="},
+{"name":"山东卫视",
+"url":"Z62UsBa5D5OoKjllicXIHmxALjmQY4Ge8u4nqQYewuKhNQYvqpDdePbY78fUchWdRjxfc8WPyFdAnIFrpuEVh/ow4YxmcBc5gSewzjp7ibs="},
+{"name":"东方卫视HD",
+"url":"Z62UsBa5D5OoKjllicXIHmxALjmQY4Ge8u4nqQYewuKhNQYvqpDdePbY78fUchWdPQRCRjHOIF/nvU5buQILcfow4YxmcBc5gSewzjp7ibs="},
+{"name":"CIBN军事",
+"url":"Z62UsBa5D5OoKjllicXIHmxALjmQY4Ge8u4nqQYewuKhNQYvqpDdePbY78fUchWdvJXZcZUoyZusph1n91eR2fow4YxmcBc5gSewzjp7ibs="},
+{"name":"CIBN汽车",
+"url":"Z62UsBa5D5OoKjllicXIHmxALjmQY4Ge8u4nqQYewuKhNQYvqpDdePbY78fUchWdwb2SwOsdHQNysnKvsJX9+/ow4YxmcBc5gSewzjp7ibs="},
+{"name":"CIBN教育",
+"url":"hZ62UsBa5D5OoKjllicXIHmxALjmQY4Ge8u4nqQYewuKhNQYvqpDdePbY78fUchWdSnlzR9fmBauCSq+PTEfhQPow4YxmcBc5gSewzjp7ibs="},
+{"name":"CIBN好莱坞",
+"url":"Z62UsBa5D5OoKjllicXIHmxALjmQY4Ge8u4nqQYewuKhNQYvqpDdePbY78fUchWdDoSo1Qb3Z5mqlJ+GOD5G1vow4YxmcBc5gSewzjp7ibs="},
+{"name":"CIBN经典剧场",
+"url":"Z62UsBa5D5OoKjllicXIHmxALjmQY4Ge8u4nqQYewuKhNQYvqpDdePbY78fUchWdx9brKA2b3hj6CVOi8msFV/ow4YxmcBc5gSewzjp7ibs="},
+{"name":"CIBN炫佳动漫",
+"url":"Z62UsBa5D5OoKjllicXIHmxALjmQY4Ge8u4nqQYewuKhNQYvqpDdePbY78fUchWdlpiLgFB/+rQlDJIJNgkUj/ow4YxmcBc5gSewzjp7ibs="},
+{"name":"CIBN电影",
+"url":"Z62UsBa5D5OoKjllicXIHmxALjmQY4Ge8u4nqQYewuKhNQYvqpDdePbY78fUchWdW29ZqJOLdJ3GGAUTn3Hvjvow4YxmcBc5gSewzjp7ibs="},
+{"name":"浙江房产",
+"url":"Z62UsBa5D5OoKjllicXIHmxALjmQY4Ge8u4nqQYewuKhNQYvqpDdePbY78fUchWd9QdQ52Ka8k3jo2M4aC2+Mfow4YxmcBc5gSewzjp7ibs="},
+{"name":"杭州-1",
+"url":"Z62UsBa5D5OoKjllicXIHmxALjmQY4Ge8u4nqQYewuKhNQYvqpDdePbY78fUchWdgY+xeNutVYWLlFVBKP0vNvow4YxmcBc5gSewzjp7ibs="},
+{"name":"杭州-2",
+"url":"Z62UsBa5D5OoKjllicXIHmxALjmQY4Ge8u4nqQYewuKhNQYvqpDdePbY78fUchWdaldLz3apHXFtgbVVBRCKePow4YxmcBc5gSewzjp7ibs="},
+{"name":"杭州-3",
+"url":"Z62UsBa5D5OoKjllicXIHmxALjmQY4Ge8u4nqQYewuKhNQYvqpDdePbY78fUchWdMtgBj9OoIdhLsrMVWF4bAPow4YxmcBc5gSewzjp7ibs="},
+{"name":"杭州-4",
+"url":"Z62UsBa5D5OoKjllicXIHmxALjmQY4Ge8u4nqQYewuKhNQYvqpDdePbY78fUchWdvMlfyeQDvlAG2Ujb/w88p/ow4YxmcBc5gSewzjp7ibs="},
+{"name":"杭州-5",
+"url":"Z62UsBa5D5OoKjllicXIHmxALjmQY4Ge8u4nqQYewuKhNQYvqpDdePbY78fUchWdRlP5ktVR26mDFP6p4QhN5Pow4YxmcBc5gSewzjp7ibs="},
+{"name":"宁波-1",
+"url":"Z62UsBa5D5OoKjllicXIHmxALjmQY4Ge8u4nqQYewuKhNQYvqpDdePbY78fUchWdiCTEXnqIqpzd5SzzE4bUbPow4YxmcBc5gSewzjp7ibs="},
+{"name":"宁波-2",
+"url":"Z62UsBa5D5OoKjllicXIHmxALjmQY4Ge8u4nqQYewuKhNQYvqpDdePbY78fUchWdWfeWzJz+LpizI7uZunP+Bfow4YxmcBc5gSewzjp7ibs="},
+{"name":"宁波-3",
+"url":"Z62UsBa5D5OoKjllicXIHmxALjmQY4Ge8u4nqQYewuKhNQYvqpDdePbY78fUchWdiNS29nQ/Qj5gvgDu63o7x/ow4YxmcBc5gSewzjp7ibs="},
+{"name":"宁波-4",
+"url":"Z62UsBa5D5OoKjllicXIHmxALjmQY4Ge8u4nqQYewuKhNQYvqpDdePbY78fUchWdi0r7wGuZxpfsjUv361vtsfow4YxmcBc5gSewzjp7ibs="},
+{"name":"宁波-5",
+"url":"Z62UsBa5D5OoKjllicXIHmxALjmQY4Ge8u4nqQYewuKhNQYvqpDdePbY78fUchWd50+6iAyeo2CnrjzQGeBj8fow4YxmcBc5gSewzjp7ibs="},
+{"name":"湖州新闻",
+"url":"Z62UsBa5D5OoKjllicXIHmxALjmQY4Ge8u4nqQYewuKhNQYvqpDdePbY78fUchWdv7SeGSWlMS8rwC6vb9pQ9Pow4YxmcBc5gSewzjp7ibs="},
+{"name":"湖州公共",
+"url":"Z62UsBa5D5OoKjllicXIHmxALjmQY4Ge8u4nqQYewuKhNQYvqpDdePbY78fUchWdpGpjGKjosADGIIXWalZW0vow4YxmcBc5gSewzjp7ibs="},
+{"name":"湖州文化娱乐",
+"url":"Z62UsBa5D5OoKjllicXIHmxALjmQY4Ge8u4nqQYewuKhNQYvqpDdePbY78fUchWdZDzZkK4i2AorVNsLIbr3Xvow4YxmcBc5gSewzjp7ibs="}
 
-	"channels": [		
-
-		
-		{
-			"name":"香港TVB财经台",
-			"url": "t81LrlchRMfrnn6WDREvDIj3AlTnPCJhLS/a4914bTX6uCAb21Z8L3OvNrge27KJ8sigA0pwM57vr7EPISqTTbCdFKEGUbxX51ZphhweghZfPsTffaohky9Izb8gR7HF"
-		},
-		{
-			"name":"香港TVB财经台",
-			"url": "t81LrlchRMfrnn6WDREvDIj3AlTnPCJhLS/a4914bTX6uCAb21Z8L3OvNrge27KJ8sigA0pwM57vr7EPISqTTbCdFKEGUbxX51ZphhweghbO6uOsOGp77Hz0054I+wvOc1hSAslNnGpzVd+q00TwyA=="
-		},
-		{
-			"name":"香港now tv",
-			"url": "WVboS742/8RLtgVmYRYZXbt7ptQwlDE9IscLr9uvubJwJXVya8PvB4pYPCPF2fkfG9AX+X18DY0/4AFLNtPB2cXtAgAA0BGC4HBFd13dPL8="
-		},
-		{
-			"name":"600 news",
-			"url": "WVboS742/8RLtgVmYRYZXbt7ptQwlDE9IscLr9uvubKpX9VQGoSKpcp1e5zPV621YDq9kn3dRSQS+i8Oh+krocXtAgAA0BGC4HBFd13dPL8="
-		},
-		{
-			"name": "香港31台",
-			"url": "zfnjst+KVdiQO6yX4iwufEJQx2crr4nxmD94y6zIQRuC0Nb5ohZ/Rs7Yl3uuYrzdGs73LKvhMfk7bG68aPnVySLMke31of7kua0Cry6D9Fs="
-		},
-		{
-			"name": "香港32台",
-			"url": "ROSwtVB0YTApTUwDH9hrJkJQx2crr4nxmD94y6zIQRs6pGzp4YWxpAIf3O2c0xh8/nrrbNA68qhgqqs7pRBhNiLMke31of7kua0Cry6D9Fs="
-		},
-		
-		{
-			"name":"香港开电视",
-			"url": "16bcxvuhbPcfACtYAMl/3iWBzmoY1Mh9KjA1ldJJkt5pEEpaZS2qKfpQeuzonGWqgmGHu6uKizH5S5vjRq3N9w=="
-		},
-		
-
-		{
-			"name": "香港ViuTV99",
-			"url": "oUiPQnzxLcQaoEdtsm4UVOfkWEQGHTs6wIiqMxcSNjwlYiyxgyWlMv8f6lwl6l9nnGyqPknryNLiL3E+4p9oeQ=="
-		},
-		{
-			"name": "香港亚视A1",
-			"url": "1j/GZ/BGOskd9cBnuUEY6BYjRWTAw7ZFhFpvZhOm0DUg+NdsG0c94mUjUsdn+W6eLCk6x8h+8WjiV3r3dhz3X0fIPZ2RWdtGz8YwYKqGpOM="
-		},
-		{
-			"name": "香港亚视经典",
-			"url": "wJ14ot1u16dJvEO0tZRmECQJ5fLIQFGyhmsl7xULEvKAO6hYOqjKR0SCGXbDs9963KTnNdIHmKQeQvwStzHw+EfIPZ2RWdtGz8YwYKqGpOM="
-		}
-		
-
-		
-		
-
-	]
-
+]
 }
