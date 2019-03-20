@@ -1,12 +1,27 @@
-
 {
 	"uuid":"f5d4a31b-ba3b-452b-8521-e59c1a91c496",
-	"title": "[TV][Live][爱看咪咕源]",
+	"title": "[TV][live][Canada]",
+	"channels": [
+	
+		{
+			"name": "CTV News Live 1",
+			"url": "Lbju3rozHngfjGUoH4zLwdg9lAL3ZvcJpBo1SYUksChtL2UagxVl70D1q7cKWNFeA5MA3ZRBXUEXDK8sTnf+4AuxPSwRfaoRCSb4KPPNg5I="
+		},
+		{
+			"name": "CTV News Live 2",
+			"url": "6LhmElxr9AmxVguc4bGMumqWQxeIricifhS/5onwUnj+cgSZqRMSGIfWBiZSmJMnPoVMULgE9eHBRwPRUOjf5NwrZahj9VkWWH77ttAa4iM="
+		},
+		{
+			"name": "CTV News Live 3",
+			"url": "meEbTujgWUrThXRiLM+QCWqWQxeIricifhS/5onwUnj+cgSZqRMSGIfWBiZSmJMnPoVMULgE9eHBRwPRUOjf5PSVqdGjezgWwwO3RYI5M24="
+		},
+		{
+			"name": "CTV News Live 4",
+			"url": "PzOklBK5iFKliR79mqKirGqWQxeIricifhS/5onwUnj+cgSZqRMSGIfWBiZSmJMnPoVMULgE9eHBRwPRUOjf5FXou93DFuQqywY/rXCAGxg="
+		}
 
-	"channels": 
-	[
-{"name":"CIBN纪录片",
-"url":"Z62UsBa5D5OoKjllicXIHmxALjmQY4Ge8u4nqQYewuKhNQYvqpDdePbY78fUchWdDMu5FoOCQL/jneKE7M9gU/ow4YxmcBc5gSewzjp7ibs="}
 
-]
+
+	]
+
 }
