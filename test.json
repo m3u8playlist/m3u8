@@ -1,43 +1,17 @@
 {
 	"uuid":"f5d4a31b-ba3b-452b-8521-e59c1a91c496",
-    "title": "[TV][Live][Korea]", 
-    "channels": [
- 
-        {
-            "name": "arirang", 
-            "url": "hOto5T3byD0/NG7asacSFoTTIsLGnnX0pRFVaLgmtPOtRilQWef/CdIHhHer07WFaiNXBbtJmxb8xKz7njEjNxZuilYFGU+ICzFI7DtMIdY+/JdYgwKmXGvZMPfkoACN"
-        }, 
+	"title": "[Radio][classical]",
 
-        {
-            "name": "EBS2", 
-            "url": "tldCVMLwIOrOC5oGqzJ+0Z7W1h0wirSPSAnp73mg490qNqrFCAnLHmVG0FkKUzsysD2tdNwTH6xKL3p8uePY5vzsT7vaOYW53NqSBnxhwcw="
-        }, 
-        {
-            "name": "CBS", 
-            "url": "B4aHwrKy4nxRCe7jC0KaXJNFgAn7DSnJkyac+DYEI+/28IYIGsWV7kIxfL0OzLoiviMLuUW+HV5StDUIREaoZ7skU/kOk+Fh7I1+u2+rDAs="
-        }, 
-        {
-            "name": "KBS1", 
-            "url": "tldCVMLwIOrOC5oGqzJ+0W7jz/W/krHOQHdqlJxsAoBhwqEOB/4FwsYblp6uBssD+GZex/ZjxPCvH9Ogbe9y0tm/Z60VgP0LG8aXpC+Qv7LF7QIAANARguBwRXdd3Ty/"
-        }, 
-        {
-            "name": "EBS1", 
-            "url": "tldCVMLwIOrOC5oGqzJ+0W7jz/W/krHOQHdqlJxsAoBhwqEOB/4FwsYblp6uBssDaaOFVSgHq6Bgks+NLW6OcT78l1iDAqZca9kw9+SgAI0="
-        }, 
-        {
-            "name": "EBSeHD", 
-            "url": "tldCVMLwIOrOC5oGqzJ+0TYIoDv3MZ7EH9m5PV9hjnmRFyhAHpp4dG0GvkZi/hSXShx72uPascwaPNpHSYne2LskU/kOk+Fh7I1+u2+rDAs="
-        }, 
-       
-        {
-            "name": "KTV", 
-            "url": "mGU/yIhLtL+Mn1o++xoA5sUEMYgsE3sT3VW5XvDhFItUdrrk36dBVf7jTF/NVxC5zWAaJ3n0yMtRCS/HrDfzUcXtAgAA0BGC4HBFd13dPL8="
-        }, 
-        {
-            "name": "Chosun", 
-            "url": "eRoMIpDBbqQukNoaoV4IeKf49JpJH58BbGyvuQTVRlZmUKVK7MKlOkxUK8mkIyRRviMLuUW+HV5StDUIREaoZ7skU/kOk+Fh7I1+u2+rDAs="
+	"channels": [		
+		{
+			"name":"Venice Classic Radio Italia[192Kbps]",
+			"url": "oStdrZnIuh46aoFcVKWYJSxB1dGlbedBiVPG2jQ9UIfvkNCINUlYlhRq7nRCy5ubthVwmMn39Ty5LplR/7CEnA=="
+		},
+		{
+			"name":"Radio-Carsija[128Kbps]",
+			"url": "PQ3YkDRn2sZBvP5Zj3XMwp0QWCsaF2ySyXMG5yjfhns5/BkKIiLwYWAw2kaUbsGoxXyILfoUuG/90DW8SOiV4w=="
+		}
+	
+		
+        ]
         }
-       
-       
-    ]
-}
