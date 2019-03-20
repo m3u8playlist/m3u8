@@ -1,57 +1,51 @@
 {
 	"uuid":"f5d4a31b-ba3b-452b-8521-e59c1a91c496",
-	"title": "[Radio][blues]",
+	"title": "[Radio][classical]",
 
 	"channels": [		
+		{
+			"name":"Venice Classic Radio Italia[192]",
+			"url": "oStdrZnIuh46aoFcVKWYJSxB1dGlbedBiVPG2jQ9UIfvkNCINUlYlhRq7nRCy5ubthVwmMn39Ty5LplR/7CEnA=="
+		},
 		{
 			"name":"Radio-Carsija[128]",
 			"url": "PQ3YkDRn2sZBvP5Zj3XMwp0QWCsaF2ySyXMG5yjfhns5/BkKIiLwYWAw2kaUbsGoxXyILfoUuG/90DW8SOiV4w=="
 		},
+			{
+			"name":"Classical WETA 90.9FM[128]",
+			"url": "HYDhPBWdu6+QJ3HMQHyJDNAeGnP6zHQ9y/A/NxYli2rvkNCINUlYlhRq7nRCy5ubthVwmMn39Ty5LplR/7CEnA=="
+		},
+					{
+			"name":"CINEMIX-Radio[128]",
+			"url": "KvC9ZHFhauppZSWKn3UrXcPE7YGAaFJ2gYOc3zWi/8tbQY3r3vrgIitqatHFxYADurYHcPsr12CKU8fOp2Cn+w=="
+		},
+					{
+			"name":"DPARKRADIO[192]",
+			"url": "Kx4h2B7ERFlu5I0g4uuG+bJiprD6wXy/tzm6qCeraqpbQY3r3vrgIitqatHFxYADurYHcPsr12CKU8fOp2Cn+w=="
+		},
+					{
+			"name":"KISS Classical [128]",
+			"url": "fdp+x1ubweG/HdaM4Kvcb35PmQcOoP/LaxyY5SARGGpn/CPibrPWd5cIXnjmCRwAnw9IS1t7QnClDCipeKfH7g=="
+		},			{
+			"name":"La Fenice Channel [128]",
+			"url": "rEidTjWU4Fx5COlKKlcCQOzEUrWYDf8LYLwf8jZ7HCNbQY3r3vrgIitqatHFxYADurYHcPsr12CKU8fOp2Cn+w=="
+		},			
 		{
-			"name":"Blues Radio[192]",
-			"url": "DfO7T+JzDnCDEInEmwudfJR3TgbNG44Tq6umbMFDqHxceD6jqhK7EyQFSixxCjjXuyRT+Q6T4WHsjX67b6sMCw=="
+			"name":"Venice Classic Radio Italia[192]",
+			"url": "hHjn3bpqYnSMx7rhprNzgenOmL2j5GDvj2I1rGuvDWBn/CPibrPWd5cIXnjmCRwAnw9IS1t7QnClDCipeKfH7g=="
+		},
+					{
+			"name":"Davide of MIMIC[320]",
+			"url": "TuloBqMoJAR6BsJUoDJ08A7yX5x0skQM0VkBYyuVdn9gZfVeFye5gBandwfu+XX5dA+a11ThJKURm0zIQqkG0w=="
+		},
+					{
+			"name":"Radio1 CLASSIC[128]",
+			"url": "TgksLtYwNSAJrKwEMIFZEuv0TDrIR81k8NxY02h56I5ceD6jqhK7EyQFSixxCjjXuyRT+Q6T4WHsjX67b6sMCw=="
 		},
 			{
-			"name":"Velvet 96.8[128]",
-			"url": "ChEbjIDwtm7OPAhEbJ5tgGOR+PHgQsSjHDzRSgh+up9bQY3r3vrgIitqatHFxYADurYHcPsr12CKU8fOp2Cn+w=="
-		},
-			{
-			"name":"AlienWare[128]",
-			"url": "MMxNwCnBId7NPyUNTi0m/kudTtTitzPiTODGsIddxGVnWzIdzuc50YuPicWFiWmz"
-		},
-			{
-			"name":"Majestic Jukebox Radio[320]",
-			"url": "TuloBqMoJAR6BsJUoDJ08FVCmkvohPjNwqEvkN6JI8aQ4rhKJB5jc/9Der/yKXQathVwmMn39Ty5LplR/7CEnA=="
-		},
-			{
-			"name":"MEGATON CAFE RADIO[128]",
-			"url": "SbzSb0bwGcUKEW3VSfxkClVCmkvohPjNwqEvkN6JI8YpxkfRBbECxR0w+8VfeRZDdA+a11ThJKURm0zIQqkG0w=="
-		},
-			{
-			"name":"Bar Legend Radio[128]",
-			"url": "UhNtXKUoHt8u+4nDeb1sBPZ4PRMi2Oe+soNLYpB54pTVml+l8HWi6rdeosEgu7Wu"
-		},
-			{
-			"name":"Amudham fm[320]",
-			"url": "XYAIDL8yq2NkTOZ+y7kAF2p32y2xsaU4J0EnKtxgweTvkNCINUlYlhRq7nRCy5ubthVwmMn39Ty5LplR/7CEnA=="
-		},	
-		{
-			"name":"HD Radio-The Blues[128]",
-			"url": "OVAEsEyINmfCRuKhZ2+jP59FEMmTaJXyS5duFwvlfK3vkNCINUlYlhRq7nRCy5ubthVwmMn39Ty5LplR/7CEnA=="
-		},
-			{
-			"name":"DI Radio Digital Impulse[320]",
-			"url": "http://5.39.71.159:8990/listen.pls?sid=1&t=.m3u"
-		},
-			{
-			"name":"TMEfmradio[320]",
-			"url": "rkWSsGBolbhrve/EDykKfcGDDmxqLLfAjp1ZgqFQY8PvkNCINUlYlhRq7nRCy5ubthVwmMn39Ty5LplR/7CEnA=="
-		},
-			{
-			"name":"Joint Radio Blues[320]",
-			"url": "kr+KEQAd6zkswr1fc07wO8NHbJU1SyMal25+mBNwgNxceD6jqhK7EyQFSixxCjjXuyRT+Q6T4WHsjX67b6sMCw=="
+			"name":"Classical Vegas[128]",
+			"url": "T0lgh4/ab48AYzi1bZFdLLMSgWNSRlT3Oau0oRaGgMBbQY3r3vrgIitqatHFxYADurYHcPsr12CKU8fOp2Cn+w=="
 		}
-		
 		
         ]
         }
