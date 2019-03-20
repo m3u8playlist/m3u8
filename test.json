@@ -1,39 +1,43 @@
 {
 	"uuid":"f5d4a31b-ba3b-452b-8521-e59c1a91c496",
-    "title": "[TV][Live][Japan]", 
+    "title": "[TV][Live][Korea]", 
     "channels": [
+ 
         {
-            "name": "nhk world", 
-            "url": "KxaJSuSDKG/RJJW1XjjbLnbG/0T3m5b5ASETGc4aFSDaSHMS4P3lrEe5/KQ7x2mpDDTofbbKIxFrnoXqJNcvFYS3tdDbrCoViBS1fYX6zkc="
+            "name": "arirang", 
+            "url": "hOto5T3byD0/NG7asacSFoTTIsLGnnX0pRFVaLgmtPOtRilQWef/CdIHhHer07WFaiNXBbtJmxb8xKz7njEjNxZuilYFGU+ICzFI7DtMIdY+/JdYgwKmXGvZMPfkoACN"
+        }, 
+
+        {
+            "name": "EBS2", 
+            "url": "tldCVMLwIOrOC5oGqzJ+0Z7W1h0wirSPSAnp73mg490qNqrFCAnLHmVG0FkKUzsysD2tdNwTH6xKL3p8uePY5vzsT7vaOYW53NqSBnxhwcw="
         }, 
         {
-            "name": "japan 24news", 
-            "url": "YoqCi1ycvAXYNDHxmClfLn6UWZrFPIb05fyzlcCDqiMznEqWmHa8uWgjTkY1za4T"
+            "name": "CBS", 
+            "url": "B4aHwrKy4nxRCe7jC0KaXJNFgAn7DSnJkyac+DYEI+/28IYIGsWV7kIxfL0OzLoiviMLuUW+HV5StDUIREaoZ7skU/kOk+Fh7I1+u2+rDAs="
         }, 
         {
-            "name": "Family Gekijyo", 
-            "url": "H9oVgkZgYgjRYqmqVfDH6PZ7AUnE3fV0lZh2XdwR3Uv4oAys62DvuOtMzToeozeXUuh/TnXjweDc2Tt/LUWxag=="
+            "name": "KBS1", 
+            "url": "tldCVMLwIOrOC5oGqzJ+0W7jz/W/krHOQHdqlJxsAoBhwqEOB/4FwsYblp6uBssD+GZex/ZjxPCvH9Ogbe9y0tm/Z60VgP0LG8aXpC+Qv7LF7QIAANARguBwRXdd3Ty/"
         }, 
         {
-            "name": "History", 
-            "url": "H9oVgkZgYgjRYqmqVfDH6PZ7AUnE3fV0lZh2XdwR3UvxqN29gT9mXZQdSZwfTuURUuh/TnXjweDc2Tt/LUWxag=="
+            "name": "EBS1", 
+            "url": "tldCVMLwIOrOC5oGqzJ+0W7jz/W/krHOQHdqlJxsAoBhwqEOB/4FwsYblp6uBssDaaOFVSgHq6Bgks+NLW6OcT78l1iDAqZca9kw9+SgAI0="
         }, 
         {
-            "name": "Eisei Gekijo", 
-            "url": "H9oVgkZgYgjRYqmqVfDH6PZ7AUnE3fV0lZh2XdwR3Uvx+woc+XzJpUapaTxDndQ0Uuh/TnXjweDc2Tt/LUWxag=="
+            "name": "EBSeHD", 
+            "url": "tldCVMLwIOrOC5oGqzJ+0TYIoDv3MZ7EH9m5PV9hjnmRFyhAHpp4dG0GvkZi/hSXShx72uPascwaPNpHSYne2LskU/kOk+Fh7I1+u2+rDAs="
+        }, 
+       
+        {
+            "name": "KTV", 
+            "url": "mGU/yIhLtL+Mn1o++xoA5sUEMYgsE3sT3VW5XvDhFItUdrrk36dBVf7jTF/NVxC5zWAaJ3n0yMtRCS/HrDfzUcXtAgAA0BGC4HBFd13dPL8="
         }, 
         {
-            "name": "Nihon Eiga TV", 
-            "url": "H9oVgkZgYgjRYqmqVfDH6PZ7AUnE3fV0lZh2XdwR3UuMZYCUHFJO8XJFWQ1OWftCUuh/TnXjweDc2Tt/LUWxag=="
-        }, 
-        {
-            "name": "Cinefil WOWOW", 
-            "url": "H9oVgkZgYgjRYqmqVfDH6PZ7AUnE3fV0lZh2XdwR3UuCnb3PizTZ0wD3UtVH+arXUuh/TnXjweDc2Tt/LUWxag=="
-        }, 
-         {
-            "name": "Japan Channel DX", 
-            "url": "8YZ/6CSvr4TpQMBsBK3O1utnh4duaVmsZ0P1MS2uKG54+7hFYt0cNksPas0u7nfTtLSF/lEVO9QvjDzS1okV15jRzi2C7Hi8ioJthAB69UFV+a16QZx1tYFGFif9ZNaH"
+            "name": "Chosun", 
+            "url": "eRoMIpDBbqQukNoaoV4IeKf49JpJH58BbGyvuQTVRlZmUKVK7MKlOkxUK8mkIyRRviMLuUW+HV5StDUIREaoZ7skU/kOk+Fh7I1+u2+rDAs="
         }
+       
        
     ]
 }
