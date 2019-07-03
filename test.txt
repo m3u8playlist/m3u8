@@ -1,0 +1,2 @@
+Channel U,https://d3inlz9elsutjl.cloudfront.net/hls/chuctv/master02.m3u8
+Miao Mi,https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
